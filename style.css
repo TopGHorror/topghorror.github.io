@@ -125,7 +125,7 @@ footer p {font-size: 15px;}
 
   .mobileButton {text-align: center;}
 
-  a.mobileButton {font-size: 60px; font-family: "Montserrat", sans-serif;}
+  a.mobileButton {font-size: 60px; font-family: "Montserrat", sans-serif; padding-bottom: 20px;}
 
   a.mobileIcon {font-size: 50px;}
 
