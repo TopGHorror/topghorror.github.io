@@ -110,7 +110,7 @@ footer {margin-top: 50px;}
 footer p {font-size: 15px;}
 
 @media only screen and (max-width: 980px) {
-  
+
   .sidebar {display: none;}
 
   .navbar a.mobileIcon {display: block;}
@@ -126,6 +126,8 @@ footer p {font-size: 15px;}
   .mobileButton {text-align: center;}
 
   a.mobileButton {font-size: 40px; font-family: "Montserrat", sans-serif;}
+
+  a.mobileIcon {font-size: 50px;}
 
   #mobilePaypal.responsive {display: block; text-align: center; padding-top: 20px;}
 }
