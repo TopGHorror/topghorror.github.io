@@ -1,0 +1,185 @@
+<!doctype html>
+
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <script src="https://kit.fontawesome.com/dd5dc0e8ad.js" crossorigin="anonymous"></script>
+  <title>Top G Horror - Rankings</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+  <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+  <script src="scripts/functions.js"></script>
+  <script src="scripts/table.js"></script>
+  <script src="scripts/movies.js"></script>
+  <style>
+
+  td {
+    color: #757575;
+    font-size: 25px;
+    text-align: center;
+  }
+
+  td img {
+    width: 140px;
+    height: 200px;
+  }
+
+  th {
+    color: #757575;
+  }
+
+  table {
+    border-spacing: 50px;
+    margin: auto;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+  }
+
+  li {display: inline;
+    font-size: 40px;
+    margin: 15px;
+  }
+
+  .tab {
+    margin: auto;
+  }
+
+  .tab .active {
+    color: white;
+  }
+
+  .tab a {
+    text-decoration: none;
+    color: #757575;
+  }
+
+  .tab a:hover {
+    color: white;
+  }
+
+  @media only screen and (max-width: 900px) {
+    li {font-size: 30px;}
+  }
+
+  @media only screen and (max-width: 750px) {
+
+    .poster {
+      display: none;
+    }
+
+    li {font-size: 20px;}
+
+    td {
+      font-size: 20px;
+    }
+  }
+  </style>
+</head>
+
+<body>
+
+  <nav class="sidebar">
+    <a href="index.html">
+      <i class="fas fa-home w3-xxlarge"></i>
+      <p class="sidebarLabel">HOME</p>
+    </a>
+    <a href="voting.html">
+      <i class="fas fa-check-square w3-xxlarge"></i>
+      <p class="sidebarLabel">VOTING</p>
+    </a>
+    <a href="rankings.html" id="active">
+      <i class="fas fa-list-ol w3-xxlarge"></i>
+      <p class="sidebarLabel">RANKINGS</p>
+    </a>
+    <a href="hof.html">
+      <i class="fas fa-trophy w3-xxlarge"></i>
+      <p class="sidebarLabel">HALL OF FAME</p>
+    </a>
+    <a href="archive.html">
+      <i class="fas fa-archive w3-xxlarge"></i>
+      <p class="sidebarLabel">ARCHIVE</p>
+    </a>
+    <a href="store.html">
+      <i class="fas fa-shopping-cart w3-xxlarge"></i>
+      <p class="sidebarLabel">STORE</p>
+    </a>
+
+    <form action="https://www.paypal.com/donate" method="post" target="_top" id="paypal">
+      <input type="hidden" name="business" value="KL2NBBUC2T22Y" />
+      <input type="hidden" name="no_recurring" value="0" />
+      <input type="hidden" name="currency_code" value="AUD" />
+      <input type="image" src="https://www.paypalobjects.com/en_AU/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+      <img alt="" border="0" src="https://www.paypal.com/en_AU/i/scr/pixel.gif" width="1" height="1" />
+    </form>
+  </nav>
+
+  <div class="navbar" id="mobileSidebar">
+    <a href="javascript:void(0);" class="mobileIcon" onclick="toggleMobile()">&#9776;</a>
+    <a href="" class="mobileButton">HOME</a>
+    <a href="" class="mobileButton">VOTING</a>
+    <a href="" class="mobileButton">RANKINGS</a>
+    <a href="" class="mobileButton">HALL OF FAME</a>
+    <a href="" class="mobileButton">ARCHIVE</a>
+    <a href="" class="mobileButton">STORE</a>
+
+    <form action="https://www.paypal.com/donate" method="post" target="_top" id="mobilePaypal">
+      <input type="hidden" name="business" value="KL2NBBUC2T22Y" />
+      <input type="hidden" name="no_recurring" value="0" />
+      <input type="hidden" name="currency_code" value="AUD" />
+      <input type="image" src="https://www.paypalobjects.com/en_AU/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+      <img alt="" border="0" src="https://www.paypal.com/en_AU/i/scr/pixel.gif" width="1" height="1" />
+    </form>
+
+  </div>
+
+  <div id="main">
+
+    <header>
+      <h1>TOP G HORROR NIGHT</h1>
+      <p id="discord">POWERED BY&nbsp;&nbsp;&nbsp;<i class="fab fa-discord w3-xxlarge"></i></p>
+    </header>
+
+    <div id="content">
+
+      <ul class="tab">
+        <li><a href="javascript:void(0)" class="tablinks" onclick="openYear(event, 'yr2016')">2016</a></li>
+        <li><a href="javascript:void(0)" class="tablinks" onclick="openYear(event, 'yr2017')">2017</a></li>
+        <li><a href="javascript:void(0)" class="tablinks" onclick="openYear(event, 'yr2018')">2018</a></li>
+        <li><a href="javascript:void(0)" class="tablinks" onclick="openYear(event, 'yr2021')">2021</a></li>
+        <li><a href="javascript:void(0)" class="tablinks" onclick="openYear(event, 'yr2022')" id="defaultOpen">2022</a></li>
+        <li><a href="javascript:void(0)" class="tablinks" onclick="openYear(event, 'overall')">Overall</a></li>
+      </ul>
+
+      <div id="yr2016" class="tabcontent"></div>
+      <div id="yr2017" class="tabcontent"></div>
+      <div id="yr2018" class="tabcontent"></div>
+      <div id="yr2021" class="tabcontent"></div>
+      <div id="yr2022" class="tabcontent"></div>
+      <div id="overall" class="tabcontent"></div>
+
+      <footer>
+        <p>This site is a work of fiction and is intended for personal use only. This site contains content not authorized for use by its owner for the purpose of comment and review (COPYRIGHT ACT 1968 - SECT 41).</p>
+      </footer>
+    </div>
+  </div>
+
+  <script>
+
+    document.getElementById("defaultOpen").click();
+
+    var test = [[2016, "yr2016"]];
+
+    CreateTableFromJSON(2016, "yr2016");
+    CreateTableFromJSON(2017, "yr2017");
+    CreateTableFromJSON(2018, "yr2018");
+    CreateTableFromJSON(2021, "yr2021");
+    CreateTableFromJSON(2022, "yr2022");
+    CreateTableFromJSON(0, "overall");
+  </script>
+</body>
+</html>

@@ -1,0 +1,222 @@
+<!doctype html>
+
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <script src="https://kit.fontawesome.com/dd5dc0e8ad.js" crossorigin="anonymous"></script>
+  <title>Top G Horror</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+  <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+  <script src="scripts/functions.js"></script>
+  <script src="scripts/table.js"></script>
+  <script src="scripts/movies.js"></script>
+  <style>
+
+  .myCaptions{
+    display: none;
+  }
+
+  .mySlides {
+    display: none;
+    width: 75%;
+    max-height: 500px;
+    min-height: 200px;
+    margin: auto;
+  }
+
+  .slideshow-caption {float: left; width: 60%; margin-top: 60px;}
+
+  .slideshow-container {float: left; width: 40%;}
+
+  .playlist {clear: both;}
+
+  .fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1s;
+    animation-name: fade;
+    animation-duration: 1s;
+  }
+
+  @-webkit-keyframes fade {
+    from {opacity: .6}
+    to {opacity: 1}
+  }
+
+  @keyframes fade {
+    from {opacity: .6}
+    to {opacity: 1}
+  }
+
+  @media only screen and (max-width: 980px) {
+
+    .slideshow-container {
+      float: none;
+      width: 500px;
+      display: inline-block;
+    }
+
+    .slideshow-caption {
+      float: none;
+      margin: auto;
+      margin-top: 0px;
+    }
+
+    img {
+      max-width: 100%;
+    }
+
+    #featured {text-align: center;}
+  }
+
+  @media only screen and (max-width: 550px) {
+
+    .slideshow-container {width: 100%;}
+  }
+  </style>
+</head>
+
+<body>
+
+  <nav class="sidebar">
+    <a href="index.html" id="active">
+      <i class="fas fa-home w3-xxlarge"></i>
+      <p class="sidebarLabel">HOME</p>
+    </a>
+    <a href="voting.html">
+      <i class="fas fa-check-square w3-xxlarge"></i>
+      <p class="sidebarLabel">VOTING</p>
+    </a>
+    <a href="rankings.html">
+      <i class="fas fa-list-ol w3-xxlarge"></i>
+      <p class="sidebarLabel">RANKINGS</p>
+    </a>
+    <a href="hof.html">
+      <i class="fas fa-trophy w3-xxlarge"></i>
+      <p class="sidebarLabel">HALL OF FAME</p>
+    </a>
+    <a href="archive.html">
+      <i class="fas fa-archive w3-xxlarge"></i>
+      <p class="sidebarLabel">ARCHIVE</p>
+    </a>
+    <a href="store.html">
+      <i class="fas fa-shopping-cart w3-xxlarge"></i>
+      <p class="sidebarLabel">STORE</p>
+    </a>
+
+    <form action="https://www.paypal.com/donate" method="post" target="_top" id="paypal">
+      <input type="hidden" name="business" value="KL2NBBUC2T22Y" />
+      <input type="hidden" name="no_recurring" value="0" />
+      <input type="hidden" name="currency_code" value="AUD" />
+      <input type="image" src="https://www.paypalobjects.com/en_AU/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+      <img alt="" border="0" src="https://www.paypal.com/en_AU/i/scr/pixel.gif" width="1" height="1" />
+    </form>
+  </nav>
+
+  <div class="navbar" id="mobileSidebar">
+    <a href="javascript:void(0);" class="mobileIcon" onclick="toggleMobile()">&#9776;</a>
+    <a href="" class="mobileButton">HOME</a>
+    <a href="" class="mobileButton">VOTING</a>
+    <a href="" class="mobileButton">RANKINGS</a>
+    <a href="" class="mobileButton">HALL OF FAME</a>
+    <a href="" class="mobileButton">ARCHIVE</a>
+    <a href="" class="mobileButton">STORE</a>
+
+    <form action="https://www.paypal.com/donate" method="post" target="_top" id="mobilePaypal">
+      <input type="hidden" name="business" value="KL2NBBUC2T22Y" />
+      <input type="hidden" name="no_recurring" value="0" />
+      <input type="hidden" name="currency_code" value="AUD" />
+      <input type="image" src="https://www.paypalobjects.com/en_AU/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+      <img alt="" border="0" src="https://www.paypal.com/en_AU/i/scr/pixel.gif" width="1" height="1" />
+    </form>
+  </div>
+
+  <div id="main">
+
+    <header>
+      <h1>TOP G HORROR NIGHT</h1>
+      <p id="discord">POWERED BY&nbsp;&nbsp;&nbsp;<i class="fa-brands fa-discord"></i></p>
+    </header>
+
+    <div id="content">
+      <p>Established in 2016 among the creaking walls of ‘Top G’, Horror Night&trade; has become a weekly event where obscure and mainstream horror movies alike are enjoyed and appreciated. Re-launched virtually in 2021, films are curated and scored by a panel of expert judges, before a complex algorithm determines their final score. The result is one of the most comprehensive rankings of horror movies of all time, one that continues to grow each and every week. To see the complete list of films, click <a href="rankings.html" style="color: #757575; text-decoration: underline;">here.</a> <br/><br/> This site was created in the early days of Horror Night&trade;, and has undergone various changes in that time. Visitors may <a href="voting.html" style="color: #757575; text-decoration: underline;">submit their scores</a>, browse the <a href="hof.html" style="color: #757575; text-decoration: underline;">Hall of Fame</a>, or take a trip down memory lane through the <a href="archive.html" style="color: #757575; text-decoration: underline;">Archives</a>. So sit back, grab your favourite delicacy, and prepare to be spooked by everything Horror Night&trade; has to offer!
+      </p><br/>
+
+      <div id="featured">
+        <h2>Featured Films:</h2>
+
+        <div class="slideshow-container">
+          <div class="mySlides fade">
+            <a href="https://www.imdb.com/title/tt8772262/?ref_=tt_mv_close"><img src="img/featured/featured1.jpg" style="width:100%; height:100%"></a>
+          </div>
+          <div class="mySlides fade">
+            <a href="https://www.imdb.com/title/tt0084787/?ref_=ttmi_tt"><img src="img/featured/featured2.jpg" style="width:100%; height:100%"></a>
+          </div>
+          <div class="mySlides fade">
+            <a href="https://www.imdb.com/title/tt7784604/"><img src="img/featured/featured3.jpg" style="width:100%; height:100%"></a>
+          </div>
+          <div class="mySlides fade">
+            <a href="https://www.imdb.com/title/tt0095444/"><img src="img/featured/featured4.jpg" style="width:100%; height:100%"></a>
+          </div>
+          <div class="mySlides fade">
+            <a href="https://www.imdb.com/title/tt0070917/"><img src="img/featured/featured5.jpg" style="width:100%; height:100%"></a>
+          </div>
+          <div class="mySlides fade">
+            <a href="https://www.imdb.com/title/tt1922777/?ref_=ttpl_pl_tt"><img src="img/featured/featured6.jpg" style="width:100%; height:100%"></a>
+          </div>
+        </div>
+
+        <div class="slideshow-caption">
+          <div class="myCaptions">
+            <h3>Midsommar</h3>
+            <p>Dani and Christian are a young American couple with a relationship on the brink of falling apart. But after a family tragedy keeps them together, a grieving Dani invites herself to join Christian and his friends on a trip to a once-in-a-lifetime midsummer festival in a remote Swedish village.</p>
+          </div>
+
+          <div class="myCaptions">
+            <h3>The Thing</h3>
+            <p>Members of an American scientific research outpost in Antarctica find themselves battling a parasitic alien organism capable of perfectly imitating its victims. They soon discover that this task will be harder than they thought, as they don't know which members of the team have already been assimilated and their paranoia threatens to tear them apart.</p>
+          </div>
+
+          <div class="myCaptions">
+            <h3>Hereditary</h3>
+            <p>After her elderly mother passes away, Annie, her disturbed daughter Charlie, and, eventually, her teenaged son Peter begin to experience strange visions and compulsions, much to the distress of her skeptical husband, Steve.</p>
+          </div>
+
+          <div class="myCaptions">
+            <h3>Killer Klowns from Outer Space</h3>
+            <p>When a small town is invaded by aliens from outer space who are capturing and killing the townspeople, no one takes them seriously. Why? The aliens all look like circus clowns, use weapons that look clown like, and all have painted on smiles. Only a few of the young people in the town realize the danger and of course no one believes them. Armed with an ice cream truck they try and rescue their friends.</p>
+          </div>
+
+          <div class="myCaptions">
+            <h3>The Wicker Man</h3>
+            <p>A puritan Police Sergeant arrives in a Scottish island village in search of a missing girl whom the locals claim never existed.</p>
+          </div>
+
+          <div class="myCaptions">
+            <h3>Sinister</h3>
+            <p>Washed-up true crime writer Ellison Oswalt finds a box of super 8 home movies in his new home that suggest the murder that he is currently researching is the work of a serial killer whose legacy dates back to the 1960s.</p>
+          </div>
+
+        </div>
+      </div>
+
+
+      <div class="playlist"><br/><br/>
+        <h2>Horror Night Playlist:</h2>
+        <iframe src="https://open.spotify.com/embed/playlist/4rXbSzYhMSKlYuNnYOnKMO?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+      </div><br/>
+
+      <footer>
+        <p>This site is a work of fiction and is intended for personal use only. This site contains content not authorized for use by its owner for the purpose of comment and review (COPYRIGHT ACT 1968 - SECT 41).</p>
+      </footer>
+
+      <script>
+      var slideIndex = 0;
+      showSlides();
+
+      </script>
+    </div>
+  </div>
+</body>
+</html>
