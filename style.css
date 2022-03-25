@@ -115,6 +115,8 @@ footer p {font-size: 15px;}
 
   .navbar a.mobileIcon {display: block;}
 
+  footer p {font-size: 8px;}
+
   .paypal {display: none;}
 
   #main {margin-left: 0;}
@@ -125,7 +127,7 @@ footer p {font-size: 15px;}
 
   .mobileButton {text-align: center;}
 
-  a.mobileButton {font-size: 60px; font-family: "Montserrat", sans-serif; padding-bottom: 40px;}
+  a.mobileButton {font-size: 100px; font-family: "Montserrat", sans-serif; padding-bottom: 40px;}
 
   a.mobileIcon {font-size: 50px;}
 
@@ -138,6 +140,4 @@ footer p {font-size: 15px;}
     padding: 4px 8px;
     font-size: 24px;
   }
-
-  footer p {font-size: 5px;}
 }
