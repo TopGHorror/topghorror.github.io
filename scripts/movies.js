@@ -79,7 +79,7 @@ var movies = [
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BZTJmNTZlZWUtZTQ2Yi00YTFjLWFiNzctYzFlNmZmZGMzYTlmXkEyXkFqcGdeQXVyMjQ2MTk1OTE@._V1_FMjpg_UX1000_.jpg",
-		"Movie": "[REC]]",
+		"Movie": "[REC]",
 		"Score": 71.3,
 		"Year": 2016
 	},
