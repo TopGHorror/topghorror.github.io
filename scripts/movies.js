@@ -198,6 +198,12 @@ var movies = [
 		"Year": 2017
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZmEwZGU2NzctYzlmNi00MGJkLWE3N2MtYjBlN2ZhMGJkZTZiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+		"Movie": "Rosemary's Baby",
+		"Score": 67,
+		"Year": 2022
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BY2VlNDg5MWEtMjk5YS00OTVjLThjNmYtMWQ3OTc0NWM0M2E4XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
 		"Movie": "Relic",
 		"Score": 67,
