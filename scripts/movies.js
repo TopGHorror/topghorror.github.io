@@ -198,7 +198,7 @@ var movies = [
 		"Year": 2017
 	},
 	{
-		"Poster": "https://m.media-amazon.com/images/M/MV5BZmEwZGU2NzctYzlmNi00MGJkLWE3N2MtYjBlN2ZhMGJkZTZiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMTA5NWQwMmYtZjEyYS00Nzc2LTgwZjAtNTQ4NmFmZjNkNjg4XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Rosemary's Baby",
 		"Score": 67,
 		"Year": 2022
@@ -252,7 +252,7 @@ var movies = [
 		"Year": 2021
 	},
 	{
-		"Poster": "https://m.media-amazon.com/images/M/MV5BNmMwMWM1MWMtOGJlYS00NmIyLWI0MjYtNjJkNDI5OWQ2YjE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BYmU4MmNmZWYtMmIxMC00MGE3LTljODctNWQ1ZTQ4NDBlNzQ1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
 		"Movie": "The Fog",
 		"Score": 66.33,
 		"Year": 2021
@@ -370,6 +370,12 @@ var movies = [
 		"Movie": "The Silence of the Lambs",
 		"Score": 63,
 		"Year": 2016
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BOWE5NGFmZjMtZmNhZi00ZWNiLWE4NTYtOGZkYzQwNDk2ZGE0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Ravenous",
+		"Score": 63,
+		"Year": 2022
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BYTFkM2ViMmQtZmI5NS00MjQ2LWEyN2EtMTI1ZmNlZDU3MTZjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
@@ -580,6 +586,12 @@ var movies = [
 		"Movie": "Here Alone",
 		"Score": 54.67,
 		"Year": 2017
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BYWVkYTU0ZDItODZmMC00NzY5LTkxZTctNmJiYmJlZmFiODU3XkEyXkFqcGdeQXVyNzkzOTg4MDM@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "High Tension",
+		"Score": 54,
+		"Year": 2022
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMWYyYzc4MTItOTdkOS00ZTIwLWE2N2MtZjA4N2YxMTI2NjViXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
