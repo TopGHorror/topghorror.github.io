@@ -192,6 +192,12 @@ var movies = [
 		"Year": 2016
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BODBhZjkyNTctNjZjNC00MWIxLWIyZjAtYjBjMjNkNTlmZGEzXkEyXkFqcGdeQXVyMTA1NTM1NDI2._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Threads",
+		"Score": 67.67,
+		"Year": 2022
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTAxMDE4Mzc3ODNeQTJeQWpwZ15BbWU4MDY2Mjg4MDcx._V1_FMjpg_UX1000_.jpg",
 		"Movie": "The Others",
 		"Score": 67.5,
