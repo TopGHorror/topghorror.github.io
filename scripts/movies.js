@@ -354,6 +354,12 @@ var movies = [
 		"Year": 2017
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BYTZmMjk1ZjAtZjg0Yy00MWIyLWI5NmYtMThlYmU3NTc2NzdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+		"Movie": "Friday the 13th Part 2",
+		"Score": 63.67,
+		"Year": 2022
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BYzk2ZTVhOWMtMWQxYS00OWQzLWFmY2QtODQ4NGFmNGQxZWVmXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Evil Dead (2013)",
 		"Score": 63.67,
@@ -556,6 +562,12 @@ var movies = [
 		"Movie": "Funny Games",
 		"Score": 58,
 		"Year": 2017
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZWI0NWQzZWUtOWM4Yy00MjlmLWE5NzUtNDVlMWVhODE3ZmFmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "The Beyond",
+		"Score": 58,
+		"Year": 2022
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTQ3MjM3ODU1NV5BMl5BanBnXkFtZTgwMjU3NDU2MTE@._V1_FMjpg_UX1000_.jpg",

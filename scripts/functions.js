@@ -1,3 +1,58 @@
+function setFeatured() {
+
+  var currentFeatured = [7, 8, 9, 10];
+
+  getPosters(currentFeatured);
+  getCaptions(currentFeatured);
+  showSlides();
+}
+
+function getPosters(current) {
+
+  for(i = 0; i < featured.length; i++) {
+
+    if(current.indexOf(i+1) > -1) {
+
+      var poster = document.createElement("div");
+      poster.classList.add("mySlides", "fade");
+
+      var postLink = document.createElement("a");
+      postLink.href = featured[i].Link;
+
+      var postImg = document.createElement("img");
+      postImg.classList.add("featuredImg");
+      postImg.src = "img/featured/featured" + featured[i].ImgRef + ".jpg";
+      postLink.appendChild(postImg);
+
+      poster.appendChild(postLink);
+
+      document.getElementsByClassName("slideshow-container")[0].appendChild(poster);
+    }
+  }
+}
+
+function getCaptions(current) {
+
+  for(i = 0; i < featured.length; i++) {
+
+    if(current.indexOf(i+1) > -1) {
+
+      var caption = document.createElement("div");
+      caption.classList.add("myCaptions");
+
+      var capTitle = document.createElement("h3");
+      capTitle.innerHTML = featured[i].Title;
+      caption.appendChild(capTitle);
+
+      var capSummary = document.createElement("p");
+      capSummary.innerHTML = featured[i].Summary;
+      caption.appendChild(capSummary);
+
+      document.getElementsByClassName("slideshow-caption")[0].appendChild(caption);
+    }
+  }
+}
+
 function showSlides() {
 
   var i;
