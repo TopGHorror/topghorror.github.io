@@ -438,6 +438,12 @@ var movies = [
 		"Year": 2016
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BY2JlY2JlYTYtNmI3NC00YTk3LWEyYTgtNzg0ODJlYzViNjc4XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+		"Movie": "I Know What You Did Last Summer",
+		"Score": 62.33,
+		"Year": 2022
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4Yjk5ODEtNGFkOS00OTY1LTgwYTYtOTFkNmU2NzBmNGM2XkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_.jpg",
 		"Movie": "Sleepy Hollow",
 		"Score": 62.33,
