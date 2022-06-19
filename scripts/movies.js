@@ -330,6 +330,12 @@ var movies = [
 		"Year": 2022
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNmQyMmUzMmYtMTA4OS00ZmRjLWE0NWYtNjc0ZGM0N2E4YzQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Tusk",
+		"Score": 64.33,
+		"Year": 2022
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BY2UzMzQyNTYtOWIwMC00M2RhLTkyZTMtMTYzYzFmNTRkODU4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
 		"Movie": "Shutter",
 		"Score": 64.3,
