@@ -534,6 +534,12 @@ var movies = [
 		"Year": 2017
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BYWIxODQxZDktZjlmYy00MDAxLTg2MmMtZjEwOTQ0Y2MyODlmXkEyXkFqcGdeQXVyMjE5MTcyMA@@._V1_.jpg",
+		"Movie": "Slaxx",
+		"Score": 60,
+		"Year": 2022
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BNDYwMTUxNjk5NV5BMl5BanBnXkFtZTcwMTM5NDc5Ng@@._V1_.jpg",
 		"Movie": "The Innkeepers",
 		"Score": 59.5,
