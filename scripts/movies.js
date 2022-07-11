@@ -114,6 +114,12 @@ var movies = [
 		"Year": 2021
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMDJmNzM4OTAtZTM4MS00YWRiLThmNTItN2I5N2JmYzcwMDBhXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+		"Movie": "The Night House",
+		"Score": 70,
+		"Year": 2022
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BNjAyZmEwZGItZmFjYS00YjRiLTgxMjEtZWY4ZDUyZmU1ODU4XkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "The House that Jack Built",
 		"Score": 69.67,
