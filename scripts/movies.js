@@ -198,6 +198,12 @@ var movies = [
 		"Year": 2016
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BYzE5MGUyYTUtODMxZi00Y2VjLTlmYjItY2NjMDkzYmYzODY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Dark Water",
+		"Score": 67.7,
+		"Year": 2022
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BODBhZjkyNTctNjZjNC00MWIxLWIyZjAtYjBjMjNkNTlmZGEzXkEyXkFqcGdeQXVyMTA1NTM1NDI2._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Threads",
 		"Score": 67.67,
@@ -292,6 +298,12 @@ var movies = [
 		"Movie": "Hellraiser",
 		"Score": 65.67,
 		"Year": 2021
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMDk2ZGVkY2UtZGE0MS00NTY1LThiZjYtYjQxMTAwMjM5M2VlXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg",
+		"Movie": "The Dead Zone",
+		"Score": 65.67,
+		"Year": 2022
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMjk0MjMzMTI3NV5BMl5BanBnXkFtZTgwODEyODkxNzE@._V1_FMjpg_UX1000_.jpg",
@@ -628,6 +640,12 @@ var movies = [
 		"Movie": "Hush",
 		"Score": 57,
 		"Year": 2016
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMWU4ZmFlMDEtYjExNy00MmQ0LWFjYTUtNWMxNDg0ZjM0OGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "The Gate",
+		"Score": 56,
+		"Year": 2022
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTEzMzI3OTM4MDleQTJeQWpwZ15BbWU3MDgyNDAzNTk@._V1_.jpg",
