@@ -200,7 +200,7 @@ var movies = [
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BYzE5MGUyYTUtODMxZi00Y2VjLTlmYjItY2NjMDkzYmYzODY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Dark Water",
-		"Score": 67.7,
+		"Score": 67.67,
 		"Year": 2022
 	},
 	{
