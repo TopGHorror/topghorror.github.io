@@ -162,6 +162,12 @@ var movies = [
 		"Year": 2016
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMTEzNDk1MzM4MDleQTJeQWpwZ15BbWU4MDM2NTI4ODEy._V1_FMjpg_UX1000_.jpg",
+		"Movie": "A Dark Song",
+		"Score": 69,
+		"Year": 2022
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMzg0NGE0N2MtYTg1My00NTBkLWI5NjEtZTgyMDA0MTU4MmIyXkEyXkFqcGdeQXVyMTU2NTcyMg@@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Gerald's Game",
 		"Score": 69,
@@ -176,6 +182,12 @@ var movies = [
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTAxMDAxODg5ODReQTJeQWpwZ15BbWU3MDI5ODYxODI@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "The House of the Devil",
+		"Score": 68.33,
+		"Year": 2022
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZmI4NWNkYmYtMTgzNi00NTdmLWIzNTctOGQxYzc1ZTZlMTQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Ju-On: The Curse",
 		"Score": 68.33,
 		"Year": 2022
 	},
