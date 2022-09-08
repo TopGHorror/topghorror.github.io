@@ -426,6 +426,12 @@ var movies = [
 		"Year": 2022
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNzNlZjUwMjItNDc3Ny00NWFhLWEwZDItMTNjMThhZGFiNjYyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+		"Movie": "Censor",
+		"Score": 63.33,
+		"Year": 2022
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BZDdhMGFlNzEtMWMxZS00NDAwLWJiYzctNmMyZDdhMTYwZDY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Night of the Creeps",
 		"Score": 63,
