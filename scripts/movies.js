@@ -678,6 +678,12 @@ var movies = [
 		"Year": 2022
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BM2I4OTFhZTgtMWEwZS00NGRiLTgwMDctNmM1ODIxMmRmMDI3XkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Frankenhooker",
+		"Score": 55.33,
+		"Year": 2022
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTEzMzI3OTM4MDleQTJeQWpwZ15BbWU3MDgyNDAzNTk@._V1_.jpg",
 		"Movie": "Berberian Sound Studio",
 		"Score": 55.33,
