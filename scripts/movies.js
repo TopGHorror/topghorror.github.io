@@ -72,6 +72,12 @@ var movies = [
 		"Year": 2017
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMTk2NTU4M2UtNWI0Ni00Y2Y3LWE2YWUtZDVjYjFmMjVkZTYyXkEyXkFqcGdeQXVyNTgzMzU5MDI@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "House",
+		"Score": 72.67,
+		"Year": 2022
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BOWVmZTM1OGYtZDE5Zi00ZjU4LTliODQtNjI1Y2E4Y2I1YTlmXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
 		"Movie": "The Autopsy of Jane Doe",
 		"Score": 72,
