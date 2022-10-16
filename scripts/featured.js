@@ -58,5 +58,29 @@ var featured = [
 		"Link": "https://www.imdb.com/title/tt1396484/",
 		"ImgRef": 10,
 		"Summary": "In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town."
-	}
+	},
+	{
+		"Title": "Last Night in Soho",
+		"Link": "https://www.imdb.com/title/tt9639470/",
+		"ImgRef": 11,
+		"Summary": "An aspiring fashion designer is mysteriously able to enter the 1960s, where she encounters a dazzling wannabe singer. But the glamour is not all it appears to be and the dreams of the past start to crack and splinter into something darker."
+	},
+	{
+		"Title": "Halloween",
+		"Link": "https://www.imdb.com/title/tt0077651/",
+		"ImgRef": 12,
+		"Summary": "Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again."
+	},
+	{
+		"Title": "Night of the Creeps",
+		"Link": "https://www.imdb.com/title/tt0091630/",
+		"ImgRef": 13,
+		"Summary": "Alien brain parasites, entering humans through the mouth, turn their host into a killing zombie. Some teenagers start to fight against them."
+	},
+	{
+		"Title": "Descent",
+		"Link": "https://www.imdb.com/title/tt0435625/",
+		"ImgRef": 14,
+		"Summary": "A caving expedition goes horribly wrong, as the explorers become trapped and ultimately pursued by a strange breed of predators."
+	},
 ]
