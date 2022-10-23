@@ -168,6 +168,12 @@ var movies = [
 		"Year": 2016
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZjgwZDIwY2MtNGZlNy00NGRlLWFmNTgtOTBkZThjMDUwMGJhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+		"Movie": "Last Night in Soho",
+		"Score": 69,
+		"Year": 2022
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTEzNDk1MzM4MDleQTJeQWpwZ15BbWU4MDM2NTI4ODEy._V1_FMjpg_UX1000_.jpg",
 		"Movie": "A Dark Song",
 		"Score": 69,
