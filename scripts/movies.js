@@ -318,6 +318,12 @@ var movies = [
 		"Year": 2018
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZjM3MjBhMGEtMmQ0MS00MTIzLWFkNDMtNjQxMGEyNDM1OGE0XkEyXkFqcGdeQXVyMjIwMjE3ODc@._V1_.jpg",
+		"Movie": "Be My Cat: A Film for Anne",
+		"Score": 65.67,
+		"Year": 2022
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BODcyYzM4YTAtNGM5MS00NjU4LTk2Y2ItZjI5NjkzZTk0MmQ1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
 		"Movie": "Army of Darkness",
 		"Score": 65.67,
@@ -562,6 +568,12 @@ var movies = [
 		"Movie": "Hell House LLC",
 		"Score": 61.67,
 		"Year": 2021
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMjZmYjg0ODctOTIyYy00YzhkLTgyMzEtNjUyY2JiZjVmYzI2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Halloween II",
+		"Score": 61.67,
+		"Year": 2022
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMjY4Mjg4YTgtZWU2MC00MzVlLTg3MDgtYzUyYzU1NGMyMmU5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
