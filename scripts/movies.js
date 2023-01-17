@@ -576,6 +576,12 @@ var movies = [
 		"Year": 2022
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMDUxM2IyYzgtMjU1ZS00Mzc4LWIwMmUtYzczMzM5ZWIzNGUxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+		"Movie": "Black Christmas",
+		"Score": 61.67,
+		"Year": 2022
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMjY4Mjg4YTgtZWU2MC00MzVlLTg3MDgtYzUyYzU1NGMyMmU5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Saw II",
 		"Score": 61.5,
