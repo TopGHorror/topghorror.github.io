@@ -246,6 +246,12 @@ var movies = [
 		"Year": 2017
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMTk3NjA3MzcyM15BMl5BanBnXkFtZTgwNDY3MjA2MjE@._V1_.jpg",
+		"Movie": "The Taking of Deborah Logan",
+		"Score": 67.33,
+		"Year": 2023
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTA5NWQwMmYtZjEyYS00Nzc2LTgwZjAtNTQ4NmFmZjNkNjg4XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Rosemary's Baby",
 		"Score": 67,
