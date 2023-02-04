@@ -222,6 +222,12 @@ var movies = [
 		"Year": 2022
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMzdjNjI5MmYtODhiNS00NTcyLWEzZmUtYzVmODM5YzExNDE3XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_FMjpg_UX1000_.jpg",
+		"Movie": "The Menu",
+		"Score": 67.67,
+		"Year": 2023
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTQwODAxMTE1NF5BMl5BanBnXkFtZTcwNTQ0MjY3OQ@@._V1_.jpg",
 		"Movie": "You're Next",
 		"Score": 67.7,
@@ -427,7 +433,7 @@ var movies = [
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BYTZmMjk1ZjAtZjg0Yy00MWIyLWI5NmYtMThlYmU3NTc2NzdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
-		"Movie": "Friday the 13th Part 2",
+		"Movie": "Friday the 13th Part II",
 		"Score": 63.67,
 		"Year": 2022
 	},
@@ -706,6 +712,12 @@ var movies = [
 		"Movie": "Hostel",
 		"Score": 57.67,
 		"Year": 2021
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZjRiMTdlY2QtZGE3YS00YjQzLTk5MmUtNjVjMjUzYWRiMWNhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX746_.jpg",
+		"Movie": "Friday the 13th Part III",
+		"Score": 57.67,
+		"Year": 2023
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BN2FhOGM3NDQtMzAyYi00YWZlLTg0MTMtMDMyYzEyMDQ2ZDkwXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg",
