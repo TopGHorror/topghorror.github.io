@@ -576,6 +576,12 @@ var movies = [
 		"Year": 2017
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BODczNzBhOWMtZGNlOS00YjBhLWI2ZDgtMzA2MjFkZmJhNTNhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Haunt",
+		"Score": 61.67,
+		"Year": 2023
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BNGZlMmE5MjctMjFhOC00Mjk4LTkwYTctODhiZjcyYmU3OTU3XkEyXkFqcGdeQXVyNTcwMzkyNDE@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Hell House LLC",
 		"Score": 61.67,
