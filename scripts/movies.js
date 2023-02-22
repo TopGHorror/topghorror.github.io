@@ -48,6 +48,12 @@ var movies = [
 		"Year": 2016
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BN2M3Y2NhMGYtYjUxOS00M2UwLTlmMGUtYzY4MzFlNjZkYzY2XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Barbarian",
+		"Score": 73.33,
+		"Year": 2023
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTYyOTAxMDA0OF5BMl5BanBnXkFtZTcwNzgwNTc1NA@@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Insidious",
 		"Score": 73.3,
@@ -552,7 +558,7 @@ var movies = [
 		"Year": 2017
 	},
 	{
-		"Poster": "https://m.media-amazon.com/images/M/MV5BYTkwZWI4MWItM2Q5NS00YTU1LTk1ZjYtMGJiOTNkYmViMzc2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZGIyMDY0MzEtNjAwMC00ZGNiLWJjNDAtZDUxMDI5NDExZDU3XkEyXkFqcGdeQXVyNDUzNzgxODE@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "The Eye",
 		"Score": 62.3,
 		"Year": 2016
