@@ -156,6 +156,12 @@ var movies = [
 		"Year": 2017
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BYmMxNzA0OTUtOTJiOS00NTc4LWJmNTItMGM3OWE0N2Y0NjhjXkEyXkFqcGdeQXVyMTg5NjU4NjE@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Terrifier",
+		"Score": 69.33,
+		"Year": 2023
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMjAzMzAyMDI4Ml5BMl5BanBnXkFtZTgwODMwOTY2NDM@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "The Ritual",
 		"Score": 69.33,
