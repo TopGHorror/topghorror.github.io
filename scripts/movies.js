@@ -816,6 +816,12 @@ var movies = [
 		"Year": 2021
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZDdjODNkMmYtYjMwNS00NTQzLThlYjUtODY2ZjdjNTNlY2JiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Crimes of the Future",
+		"Score": 48.33,
+		"Year": 2023
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMjAzMzY4NTk0M15BMl5BanBnXkFtZTcwMDA4ODU3Nw@@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Piranha DD",
 		"Score": 48.08,
