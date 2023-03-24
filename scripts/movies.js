@@ -258,6 +258,12 @@ var movies = [
 		"Year": 2022
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNjAwZTEyNzItYWJmZC00ZDU3LTk2NWYtNjNmNDlmYzEwNWEzXkEyXkFqcGdeQXVyMTMzODk3NDU0._V1_.jpg",
+		"Movie": "The Black Phone",
+		"Score": 67.67,
+		"Year": 2023
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTAxMDE4Mzc3ODNeQTJeQWpwZ15BbWU4MDY2Mjg4MDcx._V1_FMjpg_UX1000_.jpg",
 		"Movie": "The Others",
 		"Score": 67.5,
@@ -418,6 +424,12 @@ var movies = [
 		"Movie": "Tusk",
 		"Score": 64.33,
 		"Year": 2022
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMTc2MTg2MTE5Nl5BMl5BanBnXkFtZTcwMTQxNjQyMw@@._V1_.jpg",
+		"Movie": "Lake Mungo",
+		"Score": 64.33,
+		"Year": 2023
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BY2UzMzQyNTYtOWIwMC00M2RhLTkyZTMtMTYzYzFmNTRkODU4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
