@@ -468,6 +468,12 @@ var movies = [
 		"Year": 2017
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BYjI5ODIxYjktMGU3Ny00MmZmLWIyYzUtMmQ0ZjIzNzUwNWVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "April Fool's Day",
+		"Score": 63.67,
+		"Year": 2023
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMGFjOWQ5NDQtNzlkNy00OTY0LTllYmItMjU1ZGNiOWRmMzM1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "My Bloody Valentine",
 		"Score": 63.5,
