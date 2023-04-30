@@ -384,10 +384,22 @@ var movies = [
 		"Year": 2017
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNTc5YWQ2MzAtM2E3Yi00MDUyLWFiYzctMzQ5NWVkMmQ0OTcxXkEyXkFqcGdeQXVyMTU2MDk3MDQz._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Terrifier 2",
+		"Score": 65.33,
+		"Year": 2023
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BZGI0NDMwNjAtNGEzNC00MzA1LTlkMjQtYjBkYTZlZjAyZWEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Event Horizon",
 		"Score": 65.33,
 		"Year": 2022
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMTJhMmQyZDAtZTg3Mi00NzQwLWJkZWEtNzE5MTZhMzIyYTM2XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Summer of 84",
+		"Score": 65,
+		"Year": 2023
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMzAwMmQxNTctYjVmYi00MDdlLWEzMWUtOTE5NTRiNDhhNjI2L2ltYWdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
@@ -454,6 +466,12 @@ var movies = [
 		"Movie": "Psycho",
 		"Score": 64,
 		"Year": 2017
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNTk3NGNiMDYtOTlkZS00OTBlLWI1MzItMWUyNTE5YzU5OGFkXkEyXkFqcGdeQXVyMjc0MTQ5NA@@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Coming Home in the Dark",
+		"Score": 63.67,
+		"Year": 2023
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BYTZmMjk1ZjAtZjg0Yy00MWIyLWI5NmYtMThlYmU3NTc2NzdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
