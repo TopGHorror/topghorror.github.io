@@ -83,4 +83,28 @@ var featured = [
 		"ImgRef": 14,
 		"Summary": "A caving expedition goes horribly wrong, as the explorers become trapped and ultimately pursued by a strange breed of predators."
 	},
+	{
+		"Title": "The Menu",
+		"Link": "https://www.imdb.com/title/tt9764362/",
+		"ImgRef": 15,
+		"Summary": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises."
+	},
+	{
+		"Title": "Raw",
+		"Link": "https://www.imdb.com/title/tt4954522/",
+		"ImgRef": 16,
+		"Summary": "A young woman, studying to be a vet, develops a craving for human flesh."
+	},
+	{
+		"Title": "Eraserhead",
+		"Link": "https://www.imdb.com/title/tt0074486/",
+		"ImgRef": 17,
+		"Summary": "Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child."
+	},
+	{
+		"Title": "Be My Cat: A Film for Anne",
+		"Link": "https://www.imdb.com/title/tt3176980/",
+		"ImgRef": 18,
+		"Summary": "An aspiring filmmaker goes to shocking extremes to convince Hollywood actress Anne Hathaway to star in his film."
+	},
 ]
