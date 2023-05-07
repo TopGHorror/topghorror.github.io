@@ -455,6 +455,12 @@ var movies = [
 		"Score": 64,
 		"Year": 2021
 	},
+		{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BYWVjMGI4ZTAtOTJjYS00NjZkLWEzZGUtNDMxZTEyMjE5ODdjXkEyXkFqcGdeQXVyMTczNjQwOTY@._V1_.jpg",
+		"Movie": "The Banana Splits Movie",
+		"Score": 64,
+		"Year": 2023
+	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BOTc3ZjVkYTYtMDZiMC00OTliLWE3OTEtYjY5NTBmNGJjYTBmXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_.jpg",
 		"Movie": "Willy's Wonderland",
