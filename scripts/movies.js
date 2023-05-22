@@ -841,7 +841,7 @@ var movies = [
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BNzEzZGJkMDUtZjZjYi00MjBmLWFlZDMtMDU5NzVmOTBiZjJiXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
-		"Movie": "Cannibal Holocaust",
+		"Movie": "Cannibal H",
 		"Score": 54,
 		"Year": 2023
 	},
