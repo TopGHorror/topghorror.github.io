@@ -840,6 +840,12 @@ var movies = [
 		"Year": 2022
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNzEzZGJkMDUtZjZjYi00MjBmLWFlZDMtMDU5NzVmOTBiZjJiXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+		"Movie": "Cannibal Holocaust",
+		"Score": 54,
+		"Year": 2023
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMWYyYzc4MTItOTdkOS00ZTIwLWE2N2MtZjA4N2YxMTI2NjViXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Session 9",
 		"Score": 52,
