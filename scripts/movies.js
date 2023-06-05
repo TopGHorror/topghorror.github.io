@@ -42,6 +42,12 @@ var movies = [
 		"Year": 2017
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMzQ0MzE4OTUzMF5BMl5BanBnXkFtZTgwODAyNzI3NjE@._V1_.jpg",
+		"Movie": "Bone Tomahawk",
+		"Score": 74.33,
+		"Year": 2023
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTc1MjcxNzcwMV5BMl5BanBnXkFtZTgwMTE0NTE2NzE@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "The Boy",
 		"Score": 74.25,
@@ -100,6 +106,12 @@ var movies = [
 		"Movie": "The Wicker Man",
 		"Score": 70.67,
 		"Year": 2021
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Train to Busan",
+		"Score": 70.67,
+		"Year": 2023
 	},
 	{
 		"Poster": "https://image.tmdb.org/t/p/original//ydsLYdSiPSIL1LOWWYu7VCvDTT8.jpg",
@@ -252,7 +264,7 @@ var movies = [
 		"Year": 2022
 	},
 	{
-		"Poster": "https://m.media-amazon.com/images/M/MV5BODBhZjkyNTctNjZjNC00MWIxLWIyZjAtYjBjMjNkNTlmZGEzXkEyXkFqcGdeQXVyMTA1NTM1NDI2._V1_FMjpg_UX1000_.jpg",
+		"Poster": "https://image.tmdb.org/t/p/w500/lBhU4U9Eehr9shstPem6I7BdkxK.jpg",
 		"Movie": "Threads",
 		"Score": 67.67,
 		"Year": 2022
@@ -592,6 +604,12 @@ var movies = [
 		"Movie": "I Know What You Did Last Summer",
 		"Score": 62.33,
 		"Year": 2022
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZWM0NTM1NjgtNDk5ZS00ZjM5LWIwODItZTUzNmEwM2I0ZjgyXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Piggy",
+		"Score": 62.33,
+		"Year": 2023
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4Yjk5ODEtNGFkOS00OTY1LTgwYTYtOTFkNmU2NzBmNGM2XkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_.jpg",
