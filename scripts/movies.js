@@ -360,6 +360,12 @@ var movies = [
 		"Year": 2018
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BYjBlNTBhYWQtMzg5Yi00NDA2LWJmMjYtZmM0ODhiYzkwYmY5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+		"Movie": "Pet Sematary",
+		"Score": 65.67,
+		"Year": 2023
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BZjM3MjBhMGEtMmQ0MS00MTIzLWFkNDMtNjQxMGEyNDM1OGE0XkEyXkFqcGdeQXVyMjIwMjE3ODc@._V1_.jpg",
 		"Movie": "Be My Cat: A Film for Anne",
 		"Score": 65.67,
