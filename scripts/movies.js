@@ -1,4 +1,4 @@
-var movies = [
+ var movies = [
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_.jpg",
 		"Movie": "Midsommar",
@@ -431,6 +431,12 @@ var movies = [
 		"Score": 65,
 		"Year": 2017
 	},
+	 {
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjQyNDY1Ml5BMl5BanBnXkFtZTcwMTk1MDU1MQ@@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "The Mist",
+		"Score": 65,
+		"Year": 2023
+	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BYzBkMzAyMDUtZTFkZS00OWUyLTgwM2ItNGI3MTQ5NzA3NTVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Ready or Not",
@@ -820,6 +826,12 @@ var movies = [
 		"Movie": "Hush",
 		"Score": 57,
 		"Year": 2016
+	},
+	 {
+		"Poster": "https://m.media-amazon.com/images/M/MV5BY2MzNDE1NDgtM2ExZS00YjVkLWFhNzAtM2UzMTU4ZmVhN2E5XkEyXkFqcGdeQXVyMTc3OTMyNjU@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "The Pale Door",
+		"Score": 56.67,
+		"Year": 2023
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMWU4ZmFlMDEtYjExNy00MmQ0LWFjYTUtNWMxNDg0ZjM0OGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
