@@ -281,6 +281,12 @@
 		"Score": 67.5,
 		"Year": 2017
 	},
+	 {
+		"Poster": "https://m.media-amazon.com/images/M/MV5BYTA2ODg5ZjgtOTU2My00MzFkLWI0NzMtZmQ5MmRhMWU1NzhlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Bodies Bodies Bodies",
+		"Score": 67.33,
+		"Year": 2023
+	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTk3NjA3MzcyM15BMl5BanBnXkFtZTgwNDY3MjA2MjE@._V1_.jpg",
 		"Movie": "The Taking of Deborah Logan",
