@@ -934,5 +934,11 @@
 		"Movie": "Old",
 		"Score": 47.33,
 		"Year": 2022
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZjFhNGQ0Y2EtMjFiMi00MWVhLTk3NDAtMDA4MjBjNThmMTNlXkEyXkFqcGdeQXVyMjc0Nzk1Mg@@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Sharkula",
+		"Score": 37.67,
+		"Year": 2023
 	}
 ]
