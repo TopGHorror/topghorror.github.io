@@ -12,6 +12,12 @@
 		"Year": 2017
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMmY5ZGE4NmUtZWI4OS00ZWJmLWFjMzgtOWUyZjI4NDg3Y2E5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Talk to Me",
+		"Score": 77.67,
+		"Year": 2023
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMjI5MTg1Njg0Ml5BMl5BanBnXkFtZTcwNzg2Mjc4Nw@@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Sinister",
 		"Score": 75.5,
@@ -940,6 +946,12 @@
 		"Movie": "Old",
 		"Score": 47.33,
 		"Year": 2022
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BYjg1YmQwZDYtZWJlMS00NTI3LWExNDgtOWQ2Mjk3MmJjOTYwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Vampyros Lesbos",
+		"Score": 45,
+		"Year": 2023
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BZjFhNGQ0Y2EtMjFiMi00MWVhLTk3NDAtMDA4MjBjNThmMTNlXkEyXkFqcGdeQXVyMjc0Nzk1Mg@@._V1_FMjpg_UX1000_.jpg",
