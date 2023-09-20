@@ -516,6 +516,12 @@
 		"Year": 2017
 	},
 	{
+		"Poster": "https://image.tmdb.org/t/p/original//2oU700G9pDwFt7px5GxOqDHFPfR.jpg",
+		"Movie": "White Dog",
+		"Score": 63.67,
+		"Year": 2023
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BNTk3NGNiMDYtOTlkZS00OTBlLWI1MzItMWUyNTE5YzU5OGFkXkEyXkFqcGdeQXVyMjc0MTQ5NA@@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Coming Home in the Dark",
 		"Score": 63.67,
