@@ -671,6 +671,12 @@
 		"Score": 62.3,
 		"Year": 2016
 	},
+	 {
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMTE0MTM4ZGUtMjE3Yi00ZjZlLWExYjAtNWFkNTc5ZGM5MDMzXkEyXkFqcGdeQXVyMTI2NTcyMjU5._V1_.jpg",
+		"Movie": "Skinamarink",
+		"Score": 62,
+		"Year": 2023
+	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTI0MjgzNzMyOF5BMl5BanBnXkFtZTcwMDM0MzU1MQ@@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "The Poughkeepsie Tapes",
