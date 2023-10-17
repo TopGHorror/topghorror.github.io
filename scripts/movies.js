@@ -335,6 +335,12 @@
 		"Score": 67,
 		"Year": 2016
 	},
+	 {
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNjYzNGQzMjQtZmFkZi00MDBiLWExODItNjExYjI3MTIzYzI0XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Videodrome",
+		"Score": 66.67,
+		"Year": 2023
+	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMWY3ODZlOGMtNzJmOS00ZTNjLWI3ZWEtZTJhZTk5NDZjYWRjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Evil Dead II",
