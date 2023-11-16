@@ -239,6 +239,12 @@
 		"Score": 68.33,
 		"Year": 2022
 	},
+	 {
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMTEzNjkwMzIyMjZeQTJeQWpwZ15BbWU4MDI2NTU5ODYx._V1_.jpg",
+		"Movie": "Tremors",
+		"Score": 68.33,
+		"Year": 2023
+	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BZmI4NWNkYmYtMTgzNi00NTdmLWIzNTctOGQxYzc1ZTZlMTQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Ju-On: The Curse",
@@ -376,6 +382,12 @@
 		"Movie": "The Fog",
 		"Score": 66.33,
 		"Year": 2021
+	},
+	 {
+		"Poster": "https://m.media-amazon.com/images/M/MV5BN2YzYjI0MWYtYWUyZS00ZDQ4LWEzN2EtMDU4NDJmNjA2ZWFiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Halloween III: Season of the Witch",
+		"Score": 66,
+		"Year": 2023
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTA4OWQ0NGYtNDgxNC00MzI4LTgzNzktYzAxMDcyMGI3OTFmXkEyXkFqcGdeQXVyNTIyODMzMzA@._V1_FMjpg_UX1000_.jpg",
@@ -706,6 +718,12 @@
 		"Movie": "Get Out",
 		"Score": 62,
 		"Year": 2017
+	},
+	 {
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNTI2MzIzNmQtZWY3Mi00MGVlLThjOTUtYzBjOWFmODIyYjNmXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_.jpg",
+		"Movie": "Friday the 13th: The Final Chapter",
+		"Score": 62,
+		"Year": 2023
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BODczNzBhOWMtZGNlOS00YjBhLWI2ZDgtMzA2MjFkZmJhNTNhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
