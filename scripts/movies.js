@@ -60,6 +60,12 @@
 		"Year": 2023
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZTFkNmE5MjUtZDE1Yi00ZmQyLTk2YWUtN2EwODA1ZmNlOTA5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Pearl",
+		"Score": 74.33,
+		"Year": 2023
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTc1MjcxNzcwMV5BMl5BanBnXkFtZTgwMTE0NTE2NzE@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "The Boy",
 		"Score": 74.25,
@@ -464,6 +470,12 @@
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTJhMmQyZDAtZTg3Mi00NzQwLWJkZWEtNzE5MTZhMzIyYTM2XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Summer of 84",
+		"Score": 65,
+		"Year": 2023
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMjk1MjhmZWQtNzU3OC00NDE4LThlODQtNTdhZGM4M2E3MWZkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Mandy",
 		"Score": 65,
 		"Year": 2023
 	},
