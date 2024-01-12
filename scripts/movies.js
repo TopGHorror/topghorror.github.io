@@ -330,6 +330,12 @@
 		"Year": 2022
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMTM4NzkxMDM4N15BMl5BanBnXkFtZTcwMTI1NzQwNA@@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Rare Exports: A Christmas Tale",
+		"Score": 67,
+		"Year": 2023
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BY2VlNDg5MWEtMjk5YS00OTVjLThjNmYtMWQ3OTc0NWM0M2E4XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
 		"Movie": "Relic",
 		"Score": 67,
@@ -814,6 +820,12 @@
 		"Movie": "Slaxx",
 		"Score": 60,
 		"Year": 2022
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BODYxZTIwMWQtZTdiMS00ODRmLThlODEtNjkwNmE1ZTY1ZjM1XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+		"Movie": "Tetsuo: The Iron Man",
+		"Score": 60,
+		"Year": 2023
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BNDYwMTUxNjk5NV5BMl5BanBnXkFtZTcwMTM5NDc5Ng@@._V1_.jpg",
