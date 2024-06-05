@@ -72,6 +72,12 @@
 		"Year": 2016
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZTM1Nzk5ZTItN2ZkNi00MDRjLWIwYWUtOWY4ZjZmZjkyM2I0XkEyXkFqcGdeQXVyNTU1NTcwOTk@._V1_.jpg",
+		"Movie": "Aliens",
+		"Score": 73.67,
+		"Year": 2024
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BN2M3Y2NhMGYtYjUxOS00M2UwLTlmMGUtYzY4MzFlNjZkYzY2XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Barbarian",
 		"Score": 73.33,
@@ -365,11 +371,17 @@
 		"Score": 67,
 		"Year": 2016
 	},
-	 {
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BNjYzNGQzMjQtZmFkZi00MDBiLWExODItNjExYjI3MTIzYzI0XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Videodrome",
 		"Score": 66.67,
 		"Year": 2023
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNWY5NWVhMWMtNTIzZC00MTc3LWEzZDEtMWVhOTE1YjY3ZjEzXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",
+		"Movie": "You Are Not My Mother",
+		"Score": 66.67,
+		"Year": 2024
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMWY3ODZlOGMtNzJmOS00ZTNjLWI3ZWEtZTJhZTk5NDZjYWRjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
@@ -467,6 +479,12 @@
 		"Score": 65.33,
 		"Year": 2022
 	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMTQ3MDk2MDI5N15BMl5BanBnXkFtZTcwMDgyNzUzMw@@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Vacancy",
+		"Score": 65.33,
+		"Year": 2024
+	},
 	 {
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMjA2MTkxMDYzN15BMl5BanBnXkFtZTgwNTc3Mzc4MzI@._V1_.jpg",
 		"Movie": "Creep 2",
@@ -484,6 +502,12 @@
 		"Movie": "Mandy",
 		"Score": 65,
 		"Year": 2023
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMjI4Nzk2NzAzOV5BMl5BanBnXkFtZTgwNjI1NzY4NjE@._V1_.jpg",
+		"Movie": "The Final Girls",
+		"Score": 65,
+		"Year": 2024
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMzAwMmQxNTctYjVmYi00MDdlLWEzMWUtOTE5NTRiNDhhNjI2L2ltYWdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
@@ -510,6 +534,12 @@
 		"Year": 2021
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMDZmYTMxMmQtMzUyYS00NGI4LTliZmYtNzg0M2JkZTY2MzMwXkEyXkFqcGdeQXVyNDUzNzgxODE@._V1_.jpg",
+		"Movie": "The Tunnel",
+		"Score": 64.67,
+		"Year": 2024
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTUzMzkzMDgzOV5BMl5BanBnXkFtZTcwMjIyMjQ0OA@@._V1_.jpg",
 		"Movie": "Wake in Fright",
 		"Score": 64.67,
@@ -532,6 +562,12 @@
 		"Movie": "Lake Mungo",
 		"Score": 64.33,
 		"Year": 2023
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNmQ0OTMxNDYtOTYzMS00NDM0LWJlNDAtOGM0OGYyYjQwN2YyXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Lifeforce",
+		"Score": 64.33,
+		"Year": 2024
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BY2UzMzQyNTYtOWIwMC00M2RhLTkyZTMtMTYzYzFmNTRkODU4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
@@ -610,6 +646,18 @@
 		"Movie": "Malignant",
 		"Score": 63.33,
 		"Year": 2022
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNGQxNGI5YzEtZmViZS00YzRhLTg2YjMtYWNjZWY4YWZjODNhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Ice Cream Man",
+		"Score": 63.33,
+		"Year": 2024
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZTVlMTk2YmYtNjQyYS00YTBmLWFhZjEtZjk0Zjc4MDFkYmExXkEyXkFqcGdeQXVyMzU4ODM5Nw@@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Roadgames",
+		"Score": 63.33,
+		"Year": 2024
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BZGQ2ZDNiMjgtMTNhNS00MjUxLWFkYTMtYTI1OTE0MmQ2MmJkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",
@@ -804,6 +852,12 @@
 		"Year": 2021
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMTU1MDEwMDg4Nl5BMl5BanBnXkFtZTgwOTk3NTcxMTE@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Under the Skin",
+		"Score": 60.67,
+		"Year": 2024
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMDM5YzZmZjUtMjkzOS00ODBkLWE1OWUtODdmMTYzOTQwNDRkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Killer Klowns from Outer Space",
 		"Score": 60.33,
@@ -838,6 +892,12 @@
 		"Movie": "Ghost Ship",
 		"Score": 59.34,
 		"Year": 2017
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZWJkMjljNDYtMDYzOS00M2IyLTk5MzUtNzE5ZTA2ZGFkYjhiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "The Blood on Satan's Claw",
+		"Score": 59.33,
+		"Year": 2024
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BODA0ODMyNDA2N15BMl5BanBnXkFtZTcwNDAxMDAzMQ@@._V1_FMjpg_UX1000_.jpg",
