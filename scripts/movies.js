@@ -114,6 +114,12 @@
 		"Year": 2022
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZmE0MGJhNmYtOWNjYi00Njc5LWE2YjEtMWMxZTVmODUwMmMxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "The Lighthouse",
+		"Score": 72.67,
+		"Year": 2024
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BOWVmZTM1OGYtZDE5Zi00ZjU4LTliODQtNjI1Y2E4Y2I1YTlmXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
 		"Movie": "The Autopsy of Jane Doe",
 		"Score": 72,
