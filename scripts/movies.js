@@ -144,6 +144,12 @@
 		"Year": 2023
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNjUyNjU0NDE0OV5BMl5BanBnXkFtZTYwNzcwMzg3._V1_FMjpg_UX1000_.jpg",
+		"Movie": "House of 1000 Corpses",
+		"Score": 70.67,
+		"Year": 2024
+	},
+	{
 		"Poster": "https://image.tmdb.org/t/p/original//ydsLYdSiPSIL1LOWWYu7VCvDTT8.jpg",
 		"Movie": "The Loved Ones",
 		"Score": 70.67,
