@@ -281,6 +281,12 @@
 		"Score": 68.25,
 		"Year": 2017
 	},
+	 {
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZTgxMGQ2ZDctYWY4Yy00YTI4LWIxMmYtOWViMGI5ZDIwMmFiXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+		"Movie": "Fresh",
+		"Score": 68,
+		"Year": 2024
+	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMjcxOTcwZDAtYjg4Ny00YzUzLWJkNDgtMzhkMDJlOTg1YTFiXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
 		"Movie": "Re-Animator",
