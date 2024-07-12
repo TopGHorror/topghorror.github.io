@@ -126,6 +126,12 @@
 		"Year": 2017
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZDkyNjE0NzMtNTgxYS00MDE4LWI0OWYtZGNmNDcxNjRhMTY3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Late Night with the Devil",
+		"Score": 71.67,
+		"Year": 2024
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BZTJmNTZlZWUtZTQ2Yi00YTFjLWFiNzctYzFlNmZmZGMzYTlmXkEyXkFqcGdeQXVyMjQ2MTk1OTE@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "[REC]",
 		"Score": 71.3,
@@ -322,6 +328,12 @@
 		"Movie": "Threads",
 		"Score": 67.67,
 		"Year": 2022
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMDRkMDczOWYtZTkxYi00YzZkLTk0MzAtODA0ZTE3ODMwYjkxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",
+		"Movie": "In a Violent Nature",
+		"Score": 67.67,
+		"Year": 2024
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BNjAwZTEyNzItYWJmZC00ZDU3LTk2NWYtNjNmNDlmYzEwNWEzXkEyXkFqcGdeQXVyMTMzODk3NDU0._V1_.jpg",
@@ -1036,6 +1048,12 @@
 		"Movie": "Here Alone",
 		"Score": 54.67,
 		"Year": 2017
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMGNkOWQzMzctZDE2OS00MGIyLTk2ODUtNzQyY2MzODViYjE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Sleepaway Camp",
+		"Score": 54.33,
+		"Year": 2024
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BYWVkYTU0ZDItODZmMC00NzY5LTkxZTctNmJiYmJlZmFiODU3XkEyXkFqcGdeQXVyNzkzOTg4MDM@._V1_FMjpg_UX1000_.jpg",
