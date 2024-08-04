@@ -576,6 +576,12 @@
 		"Year": 2022
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZTg5MTMyNjktNTZhOC00MGFlLWFlMTMtZGU2MjE3OWQ3NjJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Jacob's Ladder",
+		"Score": 64.67,
+		"Year": 2024
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BYzE3ZDg0OTktYjlhNC00ZmQ0LTk0YjktMDE1ZWE2YjIwMjk4XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Saint Maud",
 		"Score": 64.67,
@@ -844,6 +850,12 @@
 		"Movie": "Black Christmas",
 		"Score": 61.67,
 		"Year": 2022
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BN2FkZjM2ZTUtMGNlYy00MTQwLWIyNDktN2Q0MzNiYzEwMDA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+		"Movie": "Severance",
+		"Score": 61.67,
+		"Year": 2024
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMjY4Mjg4YTgtZWU2MC00MzVlLTg3MDgtYzUyYzU1NGMyMmU5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
