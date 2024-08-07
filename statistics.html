@@ -15,10 +15,20 @@
   <script src="scripts/featured.js"></script>
   <style>
 
-  #tally {
-    color: white;
+  #skeleton, #stats {
+    display: inline-block;
+    vertical-align: middle;
   }
 
+  #skeleton {
+    margin-left: 80px;
+  }
+
+  #average, #tally {
+    color: white;
+    font-weight: bold;
+  }
+  
   .homeLink {color: white;}
 
   .featuredImg {
@@ -92,7 +102,7 @@
 <body>
 
   <nav class="sidebar">
-    <a href="index.html" id="active">
+    <a href="index.html">
       <i class="fas fa-home w3-xxlarge"></i>
       <p class="sidebarLabel">HOME</p>
     </a>
@@ -108,7 +118,7 @@
       <i class="fas fa-trophy"></i>
       <p class="sidebarLabel">HALL OF FAME</p>
     </a>
-    <a href="statistics.html">
+    <a href="statistics.html" id="active">
       <i class="fa-solid fa-chart-simple"></i>
       <p class="sidebarLabel">STATISTICS</p>
     </a>
@@ -141,38 +151,34 @@
     </header>
 
     <div id="content">
-      <p>Established in 2016 among the creaking walls of ‘Top G’, Horror Night&trade; has become a weekly event where obscure and mainstream horror movies alike are enjoyed and appreciated. Re-launched virtually in 2021, films are curated and scored by a panel of expert judges, before a complex algorithm determines their final score. The result is one of the most comprehensive rankings of horror movies of all time, one that continues to grow each and every week. To see the list of all <span id="tally">TOTAL</span> films, click <a href="rankings.html" class="homeLink">here.</a> <br/><br/> This site was created in the early days of Horror Night&trade;, and has undergone various changes in that time. Visitors may submit their scores, browse the Hall of Fame, or take a trip down memory lane through the Archives. Check out the <a href="https://trello.com/b/TFIalbWC/website-development-roadmap" class="homeLink">Website Development Roadmap</a> for what to expect in future updates.</p>
-
-      <p>So sit back, grab your favourite delicacy, and prepare to be spooked by everything Horror Night&trade; has to offer!</p><br/>
-
-      <div id="featured">
-        <h2>Featured Films:</h2>
-
-        <div class="slideshow-container"></div>
-        <div class="slideshow-caption"></div>
+      <div id="stats">
+      <h3>Number of Films Watched:</h3>
+      <p id="tally"></p>
+      <h3>Average Film Score:</h3>
+      <p id="average"></p>
       </div>
 
-      <div class="playlist"><br/><br/>
-        <h2>Horror Night Playlist:</h2>
-        <iframe src="https://open.spotify.com/embed/playlist/4rXbSzYhMSKlYuNnYOnKMO?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-      </div><br/>
-
-      <footer>
-        <p>This site is a work of fiction and is intended for personal use only. This site contains content not authorized for use by its owner for the purpose of comment and review (COPYRIGHT ACT 1968 - SECT 41).</p>
-      </footer>
-
-      <script>
-
-        var slideIndex = 0;
-        setFeatured();
-
-        var moviesTally = movies.length;
-        var tallySpan = document.getElementById("tally");
-        tallySpan.textContent = moviesTally;
-
-      </script>
-
+      <div id="skeleton">
+        <img src="archive/SSS.gif">
+      </div>
     </div>
+    
   </div>
+
+  <script>
+
+    var moviesTally = movies.length;
+    var tallyParagraph = document.getElementById("tally");
+    tallyParagraph.textContent = moviesTally;
+
+    let totalScore = movies.reduce((a,c)=> ({ 
+    Score: a.Score + c.Score})
+    )
+
+    let average = totalScore.Score / moviesTally;
+    var averageParagraph = document.getElementById("average");
+    averageParagraph.textContent = average.toFixed(2);
+
+  </script>
 </body>
 </html>

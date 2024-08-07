@@ -107,4 +107,28 @@ var featured = [
 		"ImgRef": 18,
 		"Summary": "An aspiring filmmaker goes to shocking extremes to convince Hollywood actress Anne Hathaway to star in his film."
 	},
+	{
+		"Title": "Late Night with the Devil",
+		"Link": "https://www.imdb.com/title/tt14966898/",
+		"ImgRef": 19,
+		"Summary": "A live television broadcast in 1977 goes horribly wrong, unleashing evil into the nation's living rooms."
+	},
+	{
+		"Title": "Fresh",
+		"Link": "https://www.imdb.com/title/tt13403046/",
+		"ImgRef": 20,
+		"Summary": "After quitting dating apps, a woman meets the supposedly perfect man and accepts his invitation to a romantic weekend getaway, only to find that her new paramour has been hiding some unusual appetites."
+	},
+	{
+		"Title": "In a Violent Nature",
+		"Link": "https://www.imdb.com/title/tt30321146/",
+		"ImgRef": 21,
+		"Summary": "When a locket is removed from a collapsed fire tower in the woods that entombs the rotting corpse of Johnny, a vengeful spirit spurred on by a horrific 70-year old crime, his body is resurrected and becomes hellbent on retrieving it."
+	},
+	{
+		"Title": "Aliens",
+		"Link": "https://www.imdb.com/title/tt0090605/",
+		"ImgRef": 22,
+		"Summary": "Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring."
+	}
 ]
