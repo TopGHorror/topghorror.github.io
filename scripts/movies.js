@@ -234,6 +234,12 @@
 		"Year": 2022
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNjBmYzFmODktNDIyZC00NWFmLTk2NTctYmZiY2E2OTA2OTc0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "MaXXXine",
+		"Score": 69,
+		"Year": 2024
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMjA5NzQ1NTgwNV5BMl5BanBnXkFtZTcwNjUxMzUzMw@@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "The Descent",
 		"Score": 69,
