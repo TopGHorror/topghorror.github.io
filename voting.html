@@ -31,6 +31,10 @@
     width: 100%;
   }
 
+  input[type="password"] {
+    width: 100%;
+  }
+
   input[type="submit"] {
     margin-right: 5px;
     width: 20%
@@ -42,6 +46,10 @@
 
   label {
     color: #757575;
+  }
+
+  #submit, #reset {
+    display: none
   }
 
   </style>
@@ -102,10 +110,11 @@
 
       <div id="fields">
         <!-- Collects the name of the film -->
-        <form action="https://formspree.io/f/xrgrpynk" method="POST">
+        <form id="form" action="https://formspree.io/f/xrgrpynk" method="POST">
           <div id="moviename">
             <label for="name">Movie Name:</label><br>
             <input type="text" name="name" required><br>
+            
           </div>
           <!-- Collects numerical scores for each category -->
           <div id="numbers">
@@ -117,14 +126,18 @@
 
             <input type="number" name="plot" step="0.5" min="1" max="10" placeholder="plot" required><br/><br/>
 
-            <input type="number" name="overall" step="0.5" min="1" max="10" placeholder="overall" required><br/><br/>
+            <input type="number" name="overall" step="0.5" min="1" max="10" placeholder="overall" required><br/><br/><br/>
+
+            <label for="pswd">Password:</label><br>
+            <input type="password" name="password" id="pswd" required><br>
           </div>
         </div><br/>
 
         <!-- Submit and Reset buttons for data collection -->
         <div id="submitreset">
-          <input type="submit">
-          <input type="reset">
+          <button type="button" id='validate' onclick="checkPassword()">Validate Password</button> 
+          <input type="submit" id="submit">
+          <input type="reset" id="reset">
         </div>
       </form>
 
@@ -133,5 +146,31 @@
       </footer>
     </div>
   </div>
+
+
+  <script>
+
+    document.getElementById('form').addEventListener('keydown', function(event) {
+      if (event.key === 'Enter') {
+        event.preventDefault(); // Prevent the default form submission
+      }
+    });
+  
+    function checkPassword() {
+      const inputPassword = document.getElementById('pswd').value;
+
+      var pswdResult = pswd(inputPassword);
+  
+      if (pswdResult) {
+        document.getElementById('pswd').style.backgroundColor = 'green';
+        document.getElementById('validate').style.display = 'none';
+        document.getElementById('submit').style.display = 'inline';
+        document.getElementById('reset').style.display = 'inline';
+      } else {
+        document.getElementById('pswd').style.backgroundColor = 'red';
+      }
+    }
+  </script>
+
 </body>
 </html>
