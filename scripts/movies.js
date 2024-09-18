@@ -264,6 +264,12 @@
 		"Year": 2017
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNTE5YzIzMjQtMzUxNC00Njk4LWI1MjAtZWQyZGRkNTlkMGE1XkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_.jpg",
+		"Movie": "Audition",
+		"Score": 68.33,
+		"Year": 2024
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMjA4NzU2ODA5OF5BMl5BanBnXkFtZTgwNTk1ODkwMzI@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Super Dark Times",
 		"Score": 68.33,
@@ -898,6 +904,12 @@
 		"Movie": "The Texas Chainsaw Massacre 2",
 		"Score": 61,
 		"Year": 2021
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BYTU5NDk5ZDYtMDA0NC00MjNiLTkzNTQtZjBlYzRmNzZlNzM0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Braindead",
+		"Score": 61,
+		"Year": 2024
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTU1MDEwMDg4Nl5BMl5BanBnXkFtZTgwOTk3NTcxMTE@._V1_FMjpg_UX1000_.jpg",
