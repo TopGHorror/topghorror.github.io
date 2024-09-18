@@ -103,3 +103,16 @@ function openYear(evt, year) {
   document.getElementById(year).style.display = "block";
   evt.currentTarget.className += " active";
 }
+
+function pswd(input) {
+
+  var cs = "raimi";
+  var cd = "carpenter";
+  var td = "cronenberg";
+
+  if(input.toLowerCase() === cs || input.toLowerCase() === cd || input.toLowerCase() === td) {
+    return true;
+  } else {
+    return false;
+  }
+}
