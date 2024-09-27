@@ -216,6 +216,12 @@
 		"Year": 2023
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMmJkNGNiNjgtMzFlYy00ZDI5LWI2YzktZGVjYjI5MjQyMGU3XkEyXkFqcGc@._V1_.jpg",
+		"Movie": "Longlegs",
+		"Score": 69.33,
+		"Year": 2024
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BYjVjYjhlNTQtN2UxOC00Njk5LWFjNDctODNjZTI1ZGM0ZDZkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
 		"Movie": "Candyman",
 		"Score": 69.33,
@@ -266,6 +272,12 @@
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BNTE5YzIzMjQtMzUxNC00Njk4LWI1MjAtZWQyZGRkNTlkMGE1XkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_.jpg",
 		"Movie": "Audition",
+		"Score": 68.33,
+		"Year": 2024
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMDU0NjcwOGQtNjNjOS00NzQ3LWIwM2YtYWVmODZjMzQzN2ExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Alien: Romulus",
 		"Score": 68.33,
 		"Year": 2024
 	},
