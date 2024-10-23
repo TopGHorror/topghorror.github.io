@@ -1122,6 +1122,12 @@
 		"Year": 2017
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BM2IyZjc2YWYtMDQ3ZS00MzVlLTk1ZmUtYTdhMjhmMzY1OTMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Friday the 13th: A New Beginning",
+		"Score": 52,
+		"Year": 2024
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BNDA2NTg2NjE4Ml5BMl5BanBnXkFtZTYwMjYxMDg5._V1_FMjpg_UX1000_.jpg",
 		"Movie": "The Ring",
 		"Score": 48.8,
