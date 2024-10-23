@@ -384,6 +384,12 @@
 		"Year": 2023
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNWNmYWZlNDUtZTdjNy00OWRkLTgxYTEtMDc5ZjU5NTc3ZWIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Man Behind the Sun",
+		"Score": 67.33,
+		"Year": 2019
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTA5NWQwMmYtZjEyYS00Nzc2LTgwZjAtNTQ4NmFmZjNkNjg4XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Rosemary's Baby",
 		"Score": 67,
@@ -1054,6 +1060,12 @@
 		"Movie": "The Pale Door",
 		"Score": 56.67,
 		"Year": 2023
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "The Nun",
+		"Score": 56.33,
+		"Year": 2019
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMWU4ZmFlMDEtYjExNy00MmQ0LWFjYTUtNWMxNDg0ZjM0OGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
