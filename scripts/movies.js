@@ -133,7 +133,7 @@
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMjU1ODQ5NzA0N15BMl5BanBnXkFtZTgwMDg5MTA5NzE@._V1_.jpg",
-		"Movie": "The Green Room",
+		"Movie": "The Green Room*",
 		"Score": 71.67,
 		"Year": 2016
 	},
@@ -391,7 +391,7 @@
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BNWNmYWZlNDUtZTdjNy00OWRkLTgxYTEtMDc5ZjU5NTc3ZWIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-		"Movie": "Man Behind the Sun",
+		"Movie": "Man Behind the Sun*",
 		"Score": 67.33,
 		"Year": 2019
 	},
@@ -1069,7 +1069,7 @@
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_FMjpg_UX1000_.jpg",
-		"Movie": "The Nun",
+		"Movie": "The Nun*",
 		"Score": 56.33,
 		"Year": 2019
 	},
