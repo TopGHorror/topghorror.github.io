@@ -900,6 +900,12 @@
 		"Year": 2017
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNGQ2NzZhYjItMTYwNC00YzVhLWIwNzItMGEwM2M2ZDI3ZmNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Halloween 4: The Return of Michael Myers",
+		"Score": 61.33,
+		"Year": 2024
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BZjVjMjY4MzMtYzljNi00NDQ5LTk3NTYtNzY5NzYyY2FjZTZmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
 		"Movie": "Teeth",
 		"Score": 61.33,
@@ -1072,6 +1078,12 @@
 		"Movie": "The Nun*",
 		"Score": 56.33,
 		"Year": 2019
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZGNiZmJmNGYtNTk4Yi00YTdlLWEyZDItMGZjMWY2ZDFiMWZiXkEyXkFqcGc@._V1_.jpg",
+		"Movie": "I Saw the TV Glow",
+		"Score": 56.33,
+		"Year": 2024
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMWU4ZmFlMDEtYjExNy00MmQ0LWFjYTUtNWMxNDg0ZjM0OGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
