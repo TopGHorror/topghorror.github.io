@@ -264,6 +264,12 @@
 		"Year": 2022
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNTlmOWI2ZDctZDM4Ny00YzljLTlmYTAtOTgxZmI5MGU1Yzk3XkEyXkFqcGc@._V1_.jpg",
+		"Movie": "Smile",
+		"Score": 69,
+		"Year": 2024
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTEzNDk1MzM4MDleQTJeQWpwZ15BbWU4MDM2NTI4ODEy._V1_FMjpg_UX1000_.jpg",
 		"Movie": "A Dark Song",
 		"Score": 69,
@@ -790,6 +796,12 @@
 		"Movie": "The Texas Chainsaw Massacre",
 		"Score": 62.67,
 		"Year": 2017
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNzYwMjc1Ml5BMl5BanBnXkFtZTcwNDI3MDE3Mg@@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Jennifer's Body",
+		"Score": 62.67,
+		"Year": 2024
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTQwNTMyNjc5Ml5BMl5BanBnXkFtZTcwOTI2MTQ0Mg@@._V1_FMjpg_UX1000_.jpg",
