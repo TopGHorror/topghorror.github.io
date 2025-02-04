@@ -60,7 +60,7 @@
 		"Year": 2023
 	},
 	{
-		"Poster": "https://m.media-amazon.com/images/M/MV5BMzc5MzUyOTQtMTZhOC00ZDlmLWIyNmItZjdmZjU1ZGIzZmU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNzc2MWUyYzctY2E4Ny00ZTlmLThjNTMtMTViZGI5NjcyN2EzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Terrifier 3",
 		"Score": 74.33,
 		"Year": 2024
