@@ -60,6 +60,12 @@
 		"Year": 2023
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMzc5MzUyOTQtMTZhOC00ZDlmLWIyNmItZjdmZjU1ZGIzZmU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Terrifier 3",
+		"Score": 74.33,
+		"Year": 2024
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BZTFkNmE5MjUtZDE1Yi00ZmQyLTk2YWUtN2EwODA1ZmNlOTA5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Pearl",
 		"Score": 74.33,
@@ -1150,6 +1156,12 @@
 		"Movie": "Cannibal Holocaust",
 		"Score": 54,
 		"Year": 2023
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMjhmNDkwZTItNDFhZi00YWMyLWJjNTctNGE3M2MxNGRmMDMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Friday the 13th Part VI: Jason Lives",
+		"Score": 53,
+		"Year": 2024
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMWYyYzc4MTItOTdkOS00ZTIwLWE2N2MtZjA4N2YxMTI2NjViXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
