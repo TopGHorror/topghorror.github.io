@@ -130,5 +130,29 @@ var featured = [
 		"Link": "https://www.imdb.com/title/tt0090605/",
 		"ImgRef": 22,
 		"Summary": "Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring."
+	},
+	{
+		"Title": "Longlegs",
+		"Link": "https://www.imdb.com/title/tt23468450/",
+		"ImgRef": 23,
+		"Summary": "In pursuit of a serial killer, an FBI agent uncovers a series of occult clues that she must solve to end his terrifying killing spree."
+	},
+	{
+		"Title": "Skinamarink",
+		"Link": "https://www.imdb.com/title/tt21307994/",
+		"ImgRef": 24,
+		"Summary": "Two children wake up in the middle of the night to find their father is missing, and all the windows and doors in their home have vanished."
+	},
+	{
+		"Title": "Hell House LLC",
+		"Link": "https://www.imdb.com/title/tt4267026/",
+		"ImgRef": 25,
+		"Summary": "Five years after an unexplained malfunction causes the death of 15 tour-goers and staff on the opening night of a Halloween haunted house tour, a documentary crew travels back to the scene of the tragedy to find out what really happened."
+	},
+	{
+		"Title": "Night of the Creeps",
+		"Link": "https://www.imdb.com/title/tt0091630/",
+		"ImgRef": 26,
+		"Summary": "Alien brain parasites, entering humans through the mouth, turn their host into a killing zombie. Some teenagers start to fight against them."
 	}
 ]

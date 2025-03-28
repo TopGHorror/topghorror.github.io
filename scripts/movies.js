@@ -78,7 +78,7 @@
 		"Year": 2016
 	},
 	{
-		"Poster": "https://m.media-amazon.com/images/M/MV5BZTM1Nzk5ZTItN2ZkNi00MDRjLWIwYWUtOWY4ZjZmZjkyM2I0XkEyXkFqcGdeQXVyNTU1NTcwOTk@._V1_.jpg",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BODJlYzRjODUtNzBhOS00MTA5LTgzOWItMTg3YzcyOTNmNzQxXkEyXkFqcGc@._V1_.jpg",
 		"Movie": "Aliens",
 		"Score": 73.67,
 		"Year": 2024
@@ -198,7 +198,7 @@
 		"Year": 2022
 	},
 	{
-		"Poster": "https://m.media-amazon.com/images/M/MV5BNjAyZmEwZGItZmFjYS00YjRiLTgxMjEtZWY4ZDUyZmU1ODU4XkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_FMjpg_UX1000_.jpg",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BY2Q3MDFiZGQtMjc4NS00MDJiLWFmYjgtNmI0MTQwMzUyOWNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "The House that Jack Built",
 		"Score": 69.67,
 		"Year": 2021
@@ -282,7 +282,7 @@
 		"Year": 2022
 	},
 	{
-		"Poster": "https://m.media-amazon.com/images/M/MV5BMzg0NGE0N2MtYTg1My00NTBkLWI5NjEtZTgyMDA0MTU4MmIyXkEyXkFqcGdeQXVyMTU2NTcyMg@@._V1_FMjpg_UX1000_.jpg",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNDA2ZjU5ZWMtMmQ4OS00ZTQzLWIwOWMtYTBmOTljYTIwNjM3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Gerald's Game",
 		"Score": 69,
 		"Year": 2017
@@ -330,7 +330,7 @@
 		"Year": 2017
 	},
 	 {
-		"Poster": "https://m.media-amazon.com/images/M/MV5BZTgxMGQ2ZDctYWY4Yy00YTI4LWIxMmYtOWViMGI5ZDIwMmFiXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNjZjOTBhNzgtMGUyMy00ZTJlLWFlMjQtYmMxNGE3YmViYWE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Fresh",
 		"Score": 68,
 		"Year": 2024
@@ -378,7 +378,7 @@
 		"Year": 2024
 	},
 	{
-		"Poster": "https://m.media-amazon.com/images/M/MV5BNjAwZTEyNzItYWJmZC00ZDU3LTk2NWYtNjNmNDlmYzEwNWEzXkEyXkFqcGdeQXVyMTMzODk3NDU0._V1_.jpg",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMjFhZTcxOTktMzllMS00MzIzLWJhODEtZDU5YTFkNzRjZWQyXkEyXkFqcGc@._V1_.jpg",
 		"Movie": "The Black Phone",
 		"Score": 67.67,
 		"Year": 2023
@@ -774,6 +774,12 @@
 		"Year": 2022
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMjczZWMwYmItMzM1Ny00NTUxLWEwOGUtYzZkODUwMDI3ZjQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "The Invisible Man",
+		"Score": 63,
+		"Year": 2025
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BZTIyZGM3NDItMTNmNS00Yzc4LTg2MzItOWY4MTE1NDlmZDIyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Cube",
 		"Score": 63,
@@ -784,6 +790,12 @@
 		"Movie": "28 Days Later...",
 		"Score": 63,
 		"Year": 2017
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BN2VjZDg4NTctMWQ5OS00YjhhLTg4ZWEtMWM0Y2ZhYWVmZTBiXkEyXkFqcGc@._V1_.jpg",
+		"Movie": "Razorback",
+		"Score": 62.67,
+		"Year": 2025
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMDZhYjY4ZmUtNTU1Yy00ODBlLWEyNTctNjk3MzRhMmUzZDZkXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",
@@ -1066,6 +1078,12 @@
 		"Movie": "Hostel",
 		"Score": 57.67,
 		"Year": 2021
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZDA4ZjVmM2MtYWJlNC00OTE5LThlOWQtYjQ4Yjg1ODg5MTE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Heart Eyes",
+		"Score": 57.67,
+		"Year": 2025
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BZjRiMTdlY2QtZGE3YS00YjQzLTk5MmUtNjVjMjUzYWRiMWNhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX746_.jpg",
