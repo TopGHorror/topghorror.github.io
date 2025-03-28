@@ -147,7 +147,8 @@
         <br/>
         <li><a href="javascript:void(0)" class="tablinks" onclick="openYear(event, 'yr2022')">2022</a></li>
         <li><a href="javascript:void(0)" class="tablinks" onclick="openYear(event, 'yr2023')">2023</a></li>
-        <li><a href="javascript:void(0)" class="tablinks" onclick="openYear(event, 'yr2024')" id="defaultOpen">2024</a></li>
+        <li><a href="javascript:void(0)" class="tablinks" onclick="openYear(event, 'yr2024')">2024</a></li>
+        <li><a href="javascript:void(0)" class="tablinks" onclick="openYear(event, 'yr2025')" id="defaultOpen">2025</a></li>
         <li><a href="javascript:void(0)" class="tablinks" onclick="openYear(event, 'overall')">Overall</a></li>
       </ul>
 
@@ -159,6 +160,7 @@
       <div id="yr2022" class="tabcontent"></div>
       <div id="yr2023" class="tabcontent"></div>
       <div id="yr2024" class="tabcontent"></div>
+      <div id="yr2025" class="tabcontent"></div>
       <div id="overall" class="tabcontent"></div>
 
       <p class="disclaimer">* denotes a movie was voted for in a later year than it was originally viewed.</p>
@@ -181,6 +183,7 @@
     CreateTableFromJSON(2022, "yr2022");
     CreateTableFromJSON(2023, "yr2023");
     CreateTableFromJSON(2024, "yr2024");
+    CreateTableFromJSON(2025, "yr2025");
     CreateTableFromJSON(0, "overall");
   </script>
 </body>
