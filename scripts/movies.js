@@ -552,6 +552,12 @@
 		"Year": 2023
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZGExZTc5YzAtMmEyMS00NGVmLTllYzktMzU1NjA1YjU1YzViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "The Hills Have Eyes",
+		"Score": 65.33,
+		"Year": 2025
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BZGI0NDMwNjAtNGEzNC00MzA1LTlkMjQtYjBkYTZlZjAyZWEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Event Horizon",
 		"Score": 65.33,
