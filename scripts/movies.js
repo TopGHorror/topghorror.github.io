@@ -192,6 +192,12 @@
 		"Year": 2021
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNzZhMTc5MWUtOTE2MS00MjUwLTljYWEtYTk1ZmVjNzhmMzYzXkEyXkFqcGc@._V1_.jpg",
+		"Movie": "The Monkey",
+		"Score": 70,
+		"Year": 2025
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMDJmNzM4OTAtZTM4MS00YWRiLThmNTItN2I5N2JmYzcwMDBhXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
 		"Movie": "The Night House",
 		"Score": 70,
@@ -286,6 +292,12 @@
 		"Movie": "Gerald's Game",
 		"Score": 69,
 		"Year": 2017
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMjQ2ODkxMjc4OV5BMl5BanBnXkFtZTgwMTgzNzQyMTI@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "1408",
+		"Score": 68.67,
+		"Year": 2025
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BNTE5YzIzMjQtMzUxNC00Njk4LWI1MjAtZWQyZGRkNTlkMGE1XkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_.jpg",
