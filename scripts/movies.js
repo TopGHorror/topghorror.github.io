@@ -102,6 +102,12 @@
 		"Year": 2016
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMWJkNjdmMzctZTk2YS00MDE1LWI0ZTEtNzc3OTEzNGJjZjE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "The Substance",
+		"Score": 73,
+		"Year": 2025
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMjA2NjU5MTg5OF5BMl5BanBnXkFtZTgwOTkyMzQxMDE@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Scream",
 		"Score": 73,
