@@ -210,6 +210,12 @@
 		"Year": 2022
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZmZmOWEzYjktZWYxMi00MjlmLTlmNTAtMzI4ZDVlZmIxZGIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "The Night of the Hunter",
+		"Score": 69.67,
+		"Year": 2025
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BY2Q3MDFiZGQtMjc4NS00MDJiLWFmYjgtNmI0MTQwMzUyOWNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "The House that Jack Built",
 		"Score": 69.67,
@@ -474,6 +480,12 @@
 		"Year": 2023
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BYmI1ZWViYzUtN2ZlYy00ZTMyLWJmOWMtZmJkZjQ5OWZmNWRkXkEyXkFqcGc@._V1_.jpg",
+		"Movie": "The Coffee Table",
+		"Score": 66.67,
+		"Year": 2025
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BNWY5NWVhMWMtNTIzZC00MTc3LWEzZDEtMWVhOTE1YjY3ZjEzXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",
 		"Movie": "You Are Not My Mother",
 		"Score": 66.67,
@@ -712,6 +724,12 @@
 		"Movie": "White Dog",
 		"Score": 63.67,
 		"Year": 2023
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BYTUxN2I4YTktMjcyMC00YmVjLThhMDUtNjBmM2M0MGVmZjE2XkEyXkFqcGc@._V1_.jpg",
+		"Movie": "Frontiers",
+		"Score": 63.67,
+		"Year": 2025
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BNTk3NGNiMDYtOTlkZS00OTBlLWI1MzItMWUyNTE5YzU5OGFkXkEyXkFqcGdeQXVyMjc0MTQ5NA@@._V1_FMjpg_UX1000_.jpg",
@@ -1060,6 +1078,12 @@
 		"Movie": "Eraserhead",
 		"Score": 58.67,
 		"Year": 2021
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BOTE0YzBjNWEtZTE4NC00ZmM5LTllZmUtZGYwOGFlYWVjOGU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Repulsion",
+		"Score": 58.67,
+		"Year": 2025
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMjRiYTNjODctNGU1Ni00NDg3LTk0NGUtMWU0NjgyZTAyYmNjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
