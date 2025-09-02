@@ -138,7 +138,7 @@
 		"Year": 2017
 	},
 	{
-		"Poster": "https://m.media-amazon.com/images/M/MV5BZDkyNjE0NzMtNTgxYS00MDE4LWI0OWYtZGNmNDcxNjRhMTY3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BYTRiNWZlNGMtOTUwZi00ZjE4LWE1ZjEtNWE4MGQ2ZGU5NDliXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Late Night with the Devil",
 		"Score": 71.67,
 		"Year": 2024
@@ -324,7 +324,7 @@
 		"Year": 2025
 	},
 	{
-		"Poster": "https://m.media-amazon.com/images/M/MV5BNTE5YzIzMjQtMzUxNC00Njk4LWI1MjAtZWQyZGRkNTlkMGE1XkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_.jpg",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMTI5MmFlZjgtNjNhNC00NTFlLWEzZTctYjNjZDdjYjVmNjExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Audition",
 		"Score": 68.33,
 		"Year": 2024
@@ -408,7 +408,7 @@
 		"Year": 2022
 	},
 	{
-		"Poster": "https://m.media-amazon.com/images/M/MV5BMDRkMDczOWYtZTkxYi00YzZkLTk0MzAtODA0ZTE3ODMwYjkxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNDA4M2MyM2MtNmNkMy00NmJkLTg0ZDctOWY5ZGU1ZjUxMjcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "In a Violent Nature",
 		"Score": 67.67,
 		"Year": 2024
@@ -486,7 +486,7 @@
 		"Year": 2016
 	},
 	{
-		"Poster": "https://m.media-amazon.com/images/M/MV5BNjYzNGQzMjQtZmFkZi00MDBiLWExODItNjExYjI3MTIzYzI0XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BOTI0NDVlMjMtNWI5Yi00ZWM0LTg4NWUtNGRkYjU5NTBkZjVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Videodrome",
 		"Score": 66.67,
 		"Year": 2023
@@ -498,7 +498,7 @@
 		"Year": 2025
 	},
 	{
-		"Poster": "https://m.media-amazon.com/images/M/MV5BNWY5NWVhMWMtNTIzZC00MTc3LWEzZDEtMWVhOTE1YjY3ZjEzXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNTQzOTk1OGMtNzZiNi00MzVjLWE5ZmEtMDQ4MjlhODA3NDczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "You Are Not My Mother",
 		"Score": 66.67,
 		"Year": 2024
@@ -588,7 +588,7 @@
 		"Year": 2017
 	},
 	{
-		"Poster": "https://m.media-amazon.com/images/M/MV5BNTc5YWQ2MzAtM2E3Yi00MDUyLWFiYzctMzQ5NWVkMmQ0OTcxXkEyXkFqcGdeQXVyMTU2MDk3MDQz._V1_FMjpg_UX1000_.jpg",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZjg4OTM2ZWYtMTcyNy00MWE5LWIwNTItY2RjYTkxZWFkNDExXkEyXkFqcGc@._V1_.jpg",
 		"Movie": "Terrifier 2",
 		"Score": 65.33,
 		"Year": 2023
@@ -666,7 +666,7 @@
 		"Year": 2021
 	},
 	{
-		"Poster": "https://m.media-amazon.com/images/M/MV5BMDZmYTMxMmQtMzUyYS00NGI4LTliZmYtNzg0M2JkZTY2MzMwXkEyXkFqcGdeQXVyNDUzNzgxODE@._V1_.jpg",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMTY3NTEwNTQ3NV5BMl5BanBnXkFtZTcwMTAyOTM0NA@@._V1_.jpg",
 		"Movie": "The Tunnel",
 		"Score": 64.67,
 		"Year": 2024
@@ -702,7 +702,7 @@
 		"Year": 2023
 	},
 	{
-		"Poster": "https://m.media-amazon.com/images/M/MV5BNmQ0OTMxNDYtOTYzMS00NDM0LWJlNDAtOGM0OGYyYjQwN2YyXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNWNmN2Y4ZTAtNGRkMC00ODk2LTkwZjItNDU3N2VjMmEzMDk4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Lifeforce",
 		"Score": 64.33,
 		"Year": 2024
