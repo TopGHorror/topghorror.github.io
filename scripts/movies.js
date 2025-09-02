@@ -144,6 +144,12 @@
 		"Year": 2024
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMzFiMWM4YjAtY2Y3Yi00MDIzLTk0N2MtYTAwNGM3ZmMwODhlXkEyXkFqcGc@._V1_.jpg",
+		"Movie": "Heretic",
+		"Score": 71.67,
+		"Year": 2025
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMjU1ODQ5NzA0N15BMl5BanBnXkFtZTgwMDg5MTA5NzE@._V1_.jpg",
 		"Movie": "The Green Room*",
 		"Score": 71.67,
@@ -232,6 +238,12 @@
 		"Movie": "Alien",
 		"Score": 69.67,
 		"Year": 2022
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BY2UxZWExMTYtMzIzYy00NGUxLTk4Y2QtNTUxNWEyNWYxMWYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "When Evil Lurks",
+		"Score": 69.67,
+		"Year": 2025
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTk4NTcxNTQ5NF5BMl5BanBnXkFtZTgwNTk5OTU4OTE@._V1_.jpg",
@@ -610,6 +622,12 @@
 		"Movie": "Summer of 84",
 		"Score": 65,
 		"Year": 2023
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BYWY2OTA1NjctNmFhYS00ZGQwLTlhNGUtNjQ1M2JiNzFjNmI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Scanners",
+		"Score": 65,
+		"Year": 2025
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMjk1MjhmZWQtNzU3OC00NDE4LThlODQtNTdhZGM4M2E3MWZkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
@@ -1174,6 +1192,12 @@
 		"Movie": "The Gate",
 		"Score": 56,
 		"Year": 2022
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZTA5ZTFlYzQtMWNmMS00ZDI4LTg4ZWQtNzYzNjFiYzQyODhjXkEyXkFqcGc@._V1_.jpg",
+		"Movie": "Friday the 13th Part 7 - The New Blood",
+		"Score": 55.67,
+		"Year": 2025
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BM2I4OTFhZTgtMWEwZS00NGRiLTgwMDctNmM1ODIxMmRmMDI3XkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_FMjpg_UX1000_.jpg",
