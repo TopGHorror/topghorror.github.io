@@ -330,6 +330,12 @@
 		"Year": 2024
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMWU5Yjc0N2MtZjhlYS00MTM3LWI5YWUtZDg5MzcxZjEyZWJmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Oddity",
+		"Score": 68.33,
+		"Year": 2025
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMDU0NjcwOGQtNjNjOS00NzQ3LWIwM2YtYWVmODZjMzQzN2ExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Alien: Romulus",
 		"Score": 68.33,
@@ -640,6 +646,12 @@
 		"Movie": "The Final Girls",
 		"Score": 65,
 		"Year": 2024
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BYjU1ZWMxYTUtNzQ1ZC00ZTcxLTg0NTMtMzY1ZmQyZjhmYjMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "M3GAN",
+		"Score": 65,
+		"Year": 2025
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMzAwMmQxNTctYjVmYi00MDdlLWEzMWUtOTE5NTRiNDhhNjI2L2ltYWdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
