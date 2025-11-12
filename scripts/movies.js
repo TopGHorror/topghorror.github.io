@@ -533,7 +533,13 @@
 		"Score": 66.33,
 		"Year": 2021
 	},
-	 {
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BYjkyZTA5NzAtYWU3Zi00MWM4LTgxNzAtNDQxY2JmNjMwYjk4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Companion",
+		"Score": 66,
+		"Year": 2025
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BN2YzYjI0MWYtYWUyZS00ZDQ4LWEzN2EtMDU4NDJmNjA2ZWFiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Halloween III: Season of the Witch",
 		"Score": 66,
@@ -742,6 +748,12 @@
 		"Movie": "Willy's Wonderland",
 		"Score": 64,
 		"Year": 2021
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMTAzNjczNmItMGJkMS00YzVhLTg4NzEtOGQyYWUzNDA0ZmNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Possession",
+		"Score": 64,
+		"Year": 2025
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
@@ -976,6 +988,12 @@
 		"Movie": "Hell House LLC",
 		"Score": 61.67,
 		"Year": 2021
+	},
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNzFkMDE2ZmEtOWMwNy00MWM2LThlNjMtZWQzNWY5MTJjZjcxXkEyXkFqcGc@._V1_.jpg",
+		"Movie": "Five Nights at Freddy's",
+		"Score": 61.67,
+		"Year": 2025
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMjZmYjg0ODctOTIyYy00YzhkLTgyMzEtNjUyY2JiZjVmYzI2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
