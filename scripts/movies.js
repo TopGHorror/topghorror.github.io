@@ -1,5 +1,11 @@
  var movies = [
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Weapons",
+		"Score": 78.67,
+		"Year": 2025
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_.jpg",
 		"Movie": "Midsommar",
 		"Score": 78.33,
@@ -930,6 +936,12 @@
 		"Year": 2023
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BOTIyMzc4ODkxMF5BMl5BanBnXkFtZTcwMDAyODU0MQ@@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "The Tripper",
+		"Score": 62.33,
+		"Year": 2025
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4Yjk5ODEtNGFkOS00OTY1LTgwYTYtOTFkNmU2NzBmNGM2XkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_.jpg",
 		"Movie": "Sleepy Hollow",
 		"Score": 62.33,
@@ -1188,6 +1200,12 @@
 		"Year": 2023
 	},
 	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZGRmMGRhOWMtOTk3Ni00OTRjLTkyYTAtYzA1M2IzMGE3NGRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Scary Movie",
+		"Score": 57.33,
+		"Year": 2025
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BOTNlYWNmYjItYTVhYy00YmFiLWI3N2YtNGM4MDMyMzBiMTQ4XkEyXkFqcGc@._V1_.jpg",
 		"Movie": "Wolf Creek",
 		"Score": 57,
@@ -1199,7 +1217,13 @@
 		"Score": 57,
 		"Year": 2016
 	},
-	 {
+	{
+		"Poster": "https://m.media-amazon.com/images/M/MV5BZjZlOTgzNmUtNjZlYS00NWFjLTg4ZDktMWY4NDIxMjVjZjdhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+		"Movie": "Scary Movie 2",
+		"Score": 56.67,
+		"Year": 2025
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BZWRmZWQyY2EtN2IxZi00MzZkLTlmNWMtNjU0MmRhNThkODVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "The Pale Door",
 		"Score": 56.67,
