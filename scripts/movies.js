@@ -168,6 +168,12 @@
 		"Year": 2016
 	},
 	{
+		"Poster": "https://image.tmdb.org/t/p/original/biC5etj540m9qNj3w9zETQZpsN6.jpg",
+		"Movie": "Angst",
+		"Score": 71,
+		"Year": 2025
+	},
+	{
 		"Poster": "https://image.tmdb.org/t/p/original//vs9I9RFIGYaIn3XQXkuNy2BrTCt.jpg",
 		"Movie": "The Wicker Man",
 		"Score": 70.67,
@@ -1288,6 +1294,12 @@
 		"Movie": "Sleepaway Camp",
 		"Score": 54.33,
 		"Year": 2024
+	},
+	{
+		"Poster": "https://image.tmdb.org/t/p/original/q5UJwGFACxd9QGzUljRWq1HCM6J.jpg",
+		"Movie": "Halloween 5 - The Revenge of Michael Myers",
+		"Score": 54.33,
+		"Year": 2025
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BYWVkYTU0ZDItODZmMC00NzY5LTkxZTctNmJiYmJlZmFiODU3XkEyXkFqcGdeQXVyNzkzOTg4MDM@._V1_FMjpg_UX1000_.jpg",
