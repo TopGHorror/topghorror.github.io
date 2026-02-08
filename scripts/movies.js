@@ -552,6 +552,12 @@
 		"Year": 2025
 	},
 	{
+		"Poster": "https://image.tmdb.org/t/p/original/rws34k2bqYVo2B5MkhKAbV8925j.jpg",
+		"Movie": "One Cut of the Dead",
+		"Score": 66,
+		"Year": 2025
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BN2YzYjI0MWYtYWUyZS00ZDQ4LWEzN2EtMDU4NDJmNjA2ZWFiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Halloween III: Season of the Witch",
 		"Score": 66,
@@ -1312,6 +1318,12 @@
 		"Movie": "Cannibal Holocaust",
 		"Score": 54,
 		"Year": 2023
+	},
+	{
+		"Poster": "https://image.tmdb.org/t/p/original/8uvEijsQVg6HEg6x58LAeL6qjeF.jpg",
+		"Movie": "Don't Open Till Christmas",
+		"Score": 53.33,
+		"Year": 2025
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMjhmNDkwZTItNDFhZi00YWMyLWJjNTctNGE3M2MxNGRmMDMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
