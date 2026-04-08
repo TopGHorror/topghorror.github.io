@@ -24,6 +24,12 @@
 		"Year": 2023
 	},
 	{
+		"Poster": "https://image.tmdb.org/t/p/original/tObSf1VzzHt9xB0csanFtb3DRjf.jpg",
+		"Movie": "Bring Her Back",
+		"Score": 76,
+		"Year": 2026
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BMjI5MTg1Njg0Ml5BMl5BanBnXkFtZTcwNzg2Mjc4Nw@@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "Sinister",
 		"Score": 75.5,
@@ -652,6 +658,12 @@
 		"Movie": "Summer of 84",
 		"Score": 65,
 		"Year": 2023
+	},
+	{
+		"Poster": "https://image.tmdb.org/t/p/original/trzfMe7io3Ti4bAzaiM5CwAhsbx.jpg",
+		"Movie": "The Fly",
+		"Score": 65,
+		"Year": 2026
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BYWY2OTA1NjctNmFhYS00ZGQwLTlhNGUtNjQ1M2JiNzFjNmI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -1308,6 +1320,12 @@
 		"Year": 2025
 	},
 	{
+		"Poster": "https://image.tmdb.org/t/p/original/s5U5JgPpgfTnbGxQF2bOlfqqz5b.jpg",
+		"Movie": "Friday the 13th Part VIII: Jason Takes Manhattan",
+		"Score": 54,
+		"Year": 2026
+	},
+	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BYWVkYTU0ZDItODZmMC00NzY5LTkxZTctNmJiYmJlZmFiODU3XkEyXkFqcGdeQXVyNzkzOTg4MDM@._V1_FMjpg_UX1000_.jpg",
 		"Movie": "High Tension",
 		"Score": 54,
@@ -1348,6 +1366,12 @@
 		"Movie": "Friday the 13th: A New Beginning",
 		"Score": 52,
 		"Year": 2024
+	},
+	{
+		"Poster": "https://image.tmdb.org/t/p/original/Aacq05foqiWdXqetFv02HBvMoJy.jpg",
+		"Movie": "Jason Goes to Hell: The Final Friday",
+		"Score": 51.67,
+		"Year": 2026
 	},
 	{
 		"Poster": "https://m.media-amazon.com/images/M/MV5BNDA2NTg2NjE4Ml5BMl5BanBnXkFtZTYwMjYxMDg5._V1_FMjpg_UX1000_.jpg",
