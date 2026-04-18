@@ -1,6 +1,6 @@
 function setFeatured() {
 
-  var currentFeatured = [23, 24, 25, 26];
+  var currentFeatured = [2, 7, 14, 22];
 
   getPosters(currentFeatured);
   getCaptions(currentFeatured);
