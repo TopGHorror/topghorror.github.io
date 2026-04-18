@@ -472,12 +472,6 @@
       document.getElementById("average-overall").textContent = getAverage("Overall").toFixed(1) + "/10";
       document.getElementById("average-total").textContent = getAverage("Score").toFixed(2);
 
-      movies.forEach(movie => {
-        if (isNaN(Number(movie["Scare Factor"]))) {
-          console.log("Bad value:", movie.Movie, movie["Scare Factor"]);
-        }
-      });
-
       updateSection("scare", bestScare, "Scare Factor");
       updateSection("effect", bestEffect, "Lasting Effect");
       updateSection("acting", bestActing, "Acting");
