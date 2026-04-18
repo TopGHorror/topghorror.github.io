@@ -627,7 +627,7 @@ var movies = [
     "Overall": 6.67
   },
   {
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTI5MmFlZjgtNjNhNC00NTFlLWEzZTctYjNjZDdjYjVmNjExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "Poster": "https://image.tmdb.org/t/p/original/zwGaUMm0wAqi0wkO7LJDlwoA5LP.jpg",
     "Movie": "Audition",
     "Score": 68.33,
     "Year": 2024,
@@ -1788,7 +1788,7 @@ var movies = [
     "Overall": 7.33
   },
   {
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZGIyMDY0MzEtNjAwMC00ZGNiLWJjNDAtZDUxMDI5NDExZDU3XkEyXkFqcGdeQXVyNDUzNzgxODE@._V1_FMjpg_UX1000_.jpg",
+    "Poster": "https://image.tmdb.org/t/p/original/cTtgcKrRWI0HNoHTwHF67x17Kk1.jpg",
     "Movie": "The Eye",
     "Score": 62.3,
     "Year": 2016,
@@ -2377,7 +2377,7 @@ var movies = [
     "Overall": 6
   },
   {
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNjE3MzY3YzgtMzNhNy00M2JmLWExYjgtMzhhYTMwYWNlNjM5XkEyXkFqcGdeQXVyMTE3NjEwMjU@._V1_FMjpg_UX1000_.jpg",
+    "Poster": "https://image.tmdb.org/t/p/original/mvf5RlVyZllV9krSdjsZ5lNiYE0.jpg",
     "Movie": "Here Alone",
     "Score": 54.67,
     "Year": 2017,
@@ -2432,7 +2432,7 @@ var movies = [
     "Overall": 5.5
   },
   {
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzEzZGJkMDUtZjZjYi00MjBmLWFlZDMtMDU5NzVmOTBiZjJiXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+    "Poster": "https://image.tmdb.org/t/p/original/otxZzMh53TsN7yYFqSZ3rwH1yMd.jpg",
     "Movie": "Cannibal Holocaust",
     "Score": 54,
     "Year": 2023,
@@ -2575,7 +2575,7 @@ var movies = [
     "Overall": 5.17
   },
   {
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYjg1YmQwZDYtZWJlMS00NTI3LWExNDgtOWQ2Mjk3MmJjOTYwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
+    "Poster": "https://image.tmdb.org/t/p/original/5kudAWkkX7R1k5rm2n9TFO5AkVT.jpg",
     "Movie": "Vampyros Lesbos",
     "Score": 45,
     "Year": 2023,
