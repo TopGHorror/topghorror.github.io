@@ -2,102 +2,192 @@
 
 <html>
 
-<head>
-  <meta charset="UTF-8">
-  <script src="https://kit.fontawesome.com/dd5dc0e8ad.js" crossorigin="anonymous"></script>
-  <title>Top G Horror</title>
-  <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
-  <link rel="icon" href="img/favicon.ico" type="image/x-icon">
-  <script src="scripts/functions.js"></script>
-  <script src="scripts/table.js"></script>
-  <script src="scripts/movies.js"></script>
-  <script src="scripts/featured.js"></script>
-  <style>
+  <head>
+    <meta charset="UTF-8">
+    <script src="https://kit.fontawesome.com/dd5dc0e8ad.js" crossorigin="anonymous"></script>
+    <title>Top G Horror</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+    <script src="scripts/functions.js"></script>
+    <script src="scripts/statistics.js"></script>
+    <script src="scripts/table.js"></script>
+    <script src="scripts/movies.js"></script>
+    <script src="scripts/featured.js"></script>
 
-  #skeleton, #stats {
-    display: inline-block;
-    vertical-align: middle;
-  }
+    <style>
 
-  #skeleton {
-    margin-left: 80px;
-  }
+      .movie-card {
+        width: 150px;
+        text-align: center;
+        font-family: sans-serif;
+        color: white;
+      }
 
-  #average, #tally {
-    color: white;
-    font-weight: bold;
-  }
-  
-  .homeLink {color: white;}
+      .movie-card img {
+        width: 100%;
+        height: auto;
+        border-radius: 4px;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+      }
 
-  .featuredImg {
-    height: 100%;
-    width: 100%;
-  }
+      .top-movies-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 40px;
+        justify-content: center;
+        margin-top: 20px;
+      }
 
-  .myCaptions{
-    display: none;
-  }
+      .movie-card img {
+        width: 100%;
+        height: 225px;
+        object-fit: cover;
+        border-radius: 4px;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+      }
 
-  .mySlides {
-    display: none;
-    width: 75%;
-    max-height: 500px;
-    min-height: 200px;
-    margin: auto;
-  }
+      #skeleton,
+      #stats {
+        display: inline-block;
+        vertical-align: middle;
+      }
 
-  .slideshow-caption {float: left; width: 60%; margin-top: 60px;}
+      #stats {
+        width: 100%;
+        display: flex;
+        gap: 20px;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: center;
+      }
 
-  .slideshow-container {float: left; width: 40%;}
+      #averageScoreTable {
+        width: 30%;
+      }
 
-  .playlist {clear: both;}
+      #filmsWatchedTable {
+        width: 40%;
+      }
 
-  .fade {
-    -webkit-animation-name: fade;
-    -webkit-animation-duration: 1s;
-    animation-name: fade;
-    animation-duration: 1s;
-  }
+      #skeleton {
+        margin-left: 80px;
+      }
 
-  @-webkit-keyframes fade {
-    from {opacity: .6}
-    to {opacity: 1}
-  }
+      #average,
+      #tally {
+        color: white;
+        font-weight: bold;
+      }
 
-  @keyframes fade {
-    from {opacity: .6}
-    to {opacity: 1}
-  }
+      th,
+      td {
+        color: white;
+      }
 
-  @media only screen and (max-width: 980px) {
+      th {
+        text-align: left;
+        font-weight: bold;
+      }
 
-    .slideshow-container {
-      float: none;
-      width: 500px;
-      display: inline-block;
-    }
+      caption {
+        color: #757575;
+        font-weight: bold;
+        font-size: 1.5rem;
+        text-align: left;
+        margin-bottom: 10px;
+      }
 
-    .slideshow-caption {
-      float: none;
-      margin: auto;
-      margin-top: 0px;
-    }
+      .disclaimer {
+        text-align: center;
+      }
 
-    img {
-      max-width: 100%;
-    }
+      .homeLink {
+        color: white;
+      }
 
-    #featured {text-align: center;}
-  }
+      .featuredImg {
+        height: 100%;
+        width: 100%;
+      }
 
-  @media only screen and (max-width: 550px) {
+      .myCaptions {
+        display: none;
+      }
 
-    .slideshow-container {width: 100%;}
-  }
-  </style>
-</head>
+      .mySlides {
+        display: none;
+        width: 75%;
+        max-height: 500px;
+        min-height: 200px;
+        margin: auto;
+      }
+
+      .slideshow-caption {
+        float: left;
+        width: 60%;
+        margin-top: 60px;
+      }
+
+      .slideshow-container {
+        float: left;
+        width: 40%;
+      }
+
+      .playlist {
+        clear: both;
+      }
+
+      .fade {
+        -webkit-animation-name: fade;
+        -webkit-animation-duration: 1s;
+        animation-name: fade;
+        animation-duration: 1s;
+      }
+
+      @-webkit-keyframes fade {
+        from {opacity: .6}
+        to {opacity: 1}
+      }
+
+      @keyframes fade {
+        from {opacity: .6}
+        to {opacity: 1}
+      }
+
+      @media only screen and (max-width: 980px) {
+
+        .slideshow-container {
+          float: none;
+          width: 500px;
+          display: inline-block;
+        }
+
+        .slideshow-caption {
+          float: none;
+          margin: auto;
+          margin-top: 0px;
+        }
+
+        img {
+          max-width: 100%;
+        }
+
+        #featured {
+          text-align: center;
+        }
+      }
+
+      @media only screen and (max-width: 550px) {
+
+        .slideshow-container {
+          width: 100%;
+        }
+      }
+
+    </style>
+
+  </head>
 
 <body>
 
@@ -152,33 +242,260 @@
 
     <div id="content">
       <div id="stats">
-      <h3>Number of Films Watched:</h3>
-      <p id="tally"></p>
-      <h3>Average Film Score:</h3>
-      <p id="average"></p>
+
+        <table id="filmsWatchedTable">
+          <caption>Films Watched:</caption>
+          <tr>
+            <th>Year</th>
+            <th>Tally</th>
+            <th>% of Total</th>
+          </tr>
+          <tr>
+            <td>2026</td>
+            <td id="year2026"></td>
+            <td id="percent2026"></td>
+          </tr>
+          <tr>
+            <td>2025</td>
+            <td id="year2025"></td>
+            <td id="percent2025"></td>
+          </tr>
+          <tr>
+            <td>2024</td>
+            <td id="year2024"></td>
+            <td id="percent2024"></td>
+          </tr>
+          <tr>
+            <td>2023</td>
+            <td id="year2023"></td>
+            <td id="percent2023"></td>
+          </tr>
+          <tr>
+            <td>2022</td>
+            <td id="year2022"></td>
+            <td id="percent2022"></td>
+          </tr>
+          <tr>
+            <td>2021</td>
+            <td id="year2021"></td>
+            <td id="percent2021"></td>
+          </tr>
+          <tr>
+            <td>2019</td>
+            <td id="year2019"></td>
+            <td id="percent2019"></td>
+          </tr>
+          <tr>
+            <td>2018</td>
+            <td id="year2018"></td>
+            <td id="percent2018"></td>
+          </tr>
+          <tr>
+            <td>2017</td>
+            <td id="year2017"></td>
+            <td id="percent2017"></td>
+          </tr>
+          <tr>
+            <td>2016</td>
+            <td id="year2016"></td>
+            <td id="percent2016"></td>
+          </tr>
+          <tr style="height: 25px;">
+            <td></td>
+          </tr>
+
+          <tr>
+            <td style="font-weight: bold;">Total:</td>
+            <td id="totalWatched" style="font-weight: bold;">233</td>
+          </tr>
+        </table>
+
+        <br /><br />
+
+        <table id="averageScoreTable">
+          <caption>Average Score:</caption>
+          <tr>
+            <th>Category</th>
+            <th>Average</th>
+          </tr>
+          <tr>
+            <td>Scare Factor</td>
+            <td id="average-scare"></td>
+          </tr>
+          <tr>
+            <td>Lasting Effect</td>
+            <td id="average-effect"></td>
+          </tr>
+          <tr>
+            <td>Acting</td>
+            <td id="average-acting"></td>
+          </tr>
+          <tr>
+            <td>Plot</td>
+            <td id="average-plot"></td>
+          </tr>
+          <tr>
+            <td>Overall</td>
+            <td id="average-overall"></td>
+          </tr>
+          <tr style="height: 25px;">
+            <td></td>
+          </tr>
+
+          <tr>
+            <td style="font-weight: bold;">Score (/100)</td>
+            <td id="average-total" style="font-weight: bold;"></td>
+          </tr>
+        </table>
+
       </div>
 
-      <div id="skeleton">
-        <img src="archive/SSS.gif">
+      <br>
+
+      <h3 style="text-align: center;">Top-Rated Films</h3>
+
+      <div class="top-movies">
+        <div class="top-movies-grid">
+
+          <div class="movie-card">
+            <img id="scare-poster">
+            <div class="movie-info">
+              <strong>Scare Factor</strong><br>
+              <span id="scare-title"></span><br>
+              <span id="scare-score"></span>
+            </div>
+          </div>
+
+          <div class="movie-card">
+            <img id="effect-poster">
+            <div class="movie-info">
+              <strong>Lasting Effect</strong><br>
+              <span id="effect-title"></span><br>
+              <span id="effect-score"></span>
+            </div>
+          </div>
+
+          <div class="movie-card">
+            <img id="acting-poster">
+            <div class="movie-info">
+              <strong>Acting</strong><br>
+              <span id="acting-title"></span><br>
+              <span id="acting-score"></span>
+            </div>
+          </div>
+
+          <div class="movie-card">
+            <img id="plot-poster">
+            <div class="movie-info">
+              <strong>Plot</strong><br>
+              <span id="plot-title"></span><br>
+              <span id="plot-score"></span>
+            </div>
+          </div>
+
+          <div class="movie-card">
+            <img id="overall-poster">
+            <div class="movie-info">
+              <strong>Overall</strong><br>
+              <span id="overall-title"></span><br>
+              <span id="overall-score"></span>
+            </div>
+          </div>
+
+        </div>
+
+        <br><br>
+
+        <div class="top-movies">
+          <div class="top-movies-grid">
+
+            <div class="movie-card">
+              <img id="top-poster">
+              <div class="movie-info">
+                <strong>Top-Rated</strong><br>
+                <span id="top-title"></span><br>
+                <span id="top-score"></span>
+              </div>
+            </div>
+
+            <div class="movie-card">
+              <img id="lowest-poster">
+              <div class="movie-info">
+                <strong>Lowest-Rated</strong><br>
+                <span id="lowest-title"></span><br>
+                <span id="lowest-score"></span>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
       </div>
+
+      <br>
+
+      <p class="disclaimer">
+        * denotes a movie was voted for in a later year than it was originally viewed.
+      </p>
+
     </div>
-    
+
+    <footer>
+      <p style="text-align: center;">
+        This site is a work of fiction and is intended for personal use only.
+        This site contains content not authorized for use by its owner for the purpose of comment and review
+        (COPYRIGHT ACT 1968 - SECT 41).
+        All posters used on this are provided by The Movie Database.
+      </p>
+      <a href="https://www.themoviedb.org">
+        <img src="img/tmdb.svg" style="width: 20%; display: block; margin: auto;">
+      </a>
+    </footer>
+
+    <script>
+
+      var moviesTally = movies.length;
+      var bestScare = getTopMovieBy("Scare Factor");
+      var bestEffect = getTopMovieBy("Lasting Effect");
+      var bestActing = getTopMovieBy("Acting");
+      var bestPlot = getTopMovieBy("Plot");
+      var bestOverall = getTopMovieBy("Overall");
+      var topRated = getTopRated();
+      var lowestRated = getLowestRated();
+
+      document.getElementById("totalWatched").textContent = moviesTally;
+
+      document.getElementById("average-scare").textContent = getAverage("Scare Factor").toFixed(1) + "/10";
+      document.getElementById("average-effect").textContent = getAverage("Lasting Effect").toFixed(1) + "/10";
+      document.getElementById("average-acting").textContent = getAverage("Acting").toFixed(1) + "/10";
+      document.getElementById("average-plot").textContent = getAverage("Plot").toFixed(1) + "/10";
+      document.getElementById("average-overall").textContent = getAverage("Overall").toFixed(1) + "/10";
+      document.getElementById("average-total").textContent = getAverage("Score").toFixed(2);
+
+      movies.forEach(movie => {
+        if (isNaN(Number(movie["Scare Factor"]))) {
+          console.log("Bad value:", movie.Movie, movie["Scare Factor"]);
+        }
+      });
+
+      updateSection("scare", bestScare, "Scare Factor");
+      updateSection("effect", bestEffect, "Lasting Effect");
+      updateSection("acting", bestActing, "Acting");
+      updateSection("plot", bestPlot, "Plot");
+      updateSection("overall", bestOverall, "Overall");
+      updateSection("top", topRated, "Score", false);
+      updateSection("lowest", lowestRated, "Score", false);
+
+      const years = [2026, 2025, 2024, 2023, 2022, 2021, 2019, 2018, 2017, 2016];
+
+      years.forEach(year => {
+        filmsWatched(year, `year${year}`);
+        percentWatched(moviesTally, year, `percent${year}`);
+      });
+
+    </script>
+
   </div>
 
-  <script>
-
-    var moviesTally = movies.length;
-    var tallyParagraph = document.getElementById("tally");
-    tallyParagraph.textContent = moviesTally;
-
-    let totalScore = movies.reduce((a,c)=> ({ 
-    Score: a.Score + c.Score})
-    )
-
-    let average = totalScore.Score / moviesTally;
-    var averageParagraph = document.getElementById("average");
-    averageParagraph.textContent = average.toFixed(2);
-
-  </script>
 </body>
 </html>
