@@ -396,6 +396,17 @@ var movies = [
     "Overall": 8.17
   },
   {
+    "Poster": "https://image.tmdb.org/t/p/original/xyPLG53OodhJtvfQEfcmC43l16O.jpg",
+    "Movie": "Onibaba",
+    "Score": 70.33,
+    "Year": 2026,
+    "Scare Factor": 6.33,
+    "Lasting Effect": 6.83,
+    "Acting": 7.67,
+    "Plot": 7.17,
+    "Overall": 7.17
+  },
+  {
     "Poster": "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_FMjpg_UX1000_.jpg",
     "Movie": "A Quiet Place",
     "Score": 70,
@@ -1555,6 +1566,17 @@ var movies = [
     "Acting": 6,
     "Plot": 6,
     "Overall": 7.17
+  },
+  {
+    "Poster": "https://image.tmdb.org/t/p/original/msh4tEUzbnEqlHcFOUH4O0Zti8r.jpg",
+    "Movie": "In the Mouth of Madness",
+    "Score": 63.33,
+    "Year": 2026,
+    "Scare Factor": 6.00,
+    "Lasting Effect": 6.00,
+    "Acting": 6.83,
+    "Plot": 6.50,
+    "Overall": 6.33
   },
   {
     "Poster": "https://m.media-amazon.com/images/M/MV5BZTVlMTk2YmYtNjQyYS00YTBmLWFhZjEtZjk0Zjc4MDFkYmExXkEyXkFqcGdeQXVyMzU4ODM5Nw@@._V1_FMjpg_UX1000_.jpg",
