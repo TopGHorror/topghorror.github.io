@@ -2250,7 +2250,7 @@ var movies = [
     "Overall": 6
   },
   {
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZjRiMTdlY2QtZGE3YS00YjQzLTk5MmUtNjVjMjUzYWRiMWNhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX746_.jpg",
+    "Poster": "https://image.tmdb.org/t/p/original/vuxRW5GKuCnKvdYlUAYNxlicm54.jpg",
     "Movie": "The Toxic Avenger",
     "Score": 57.67,
     "Year": 2026,
