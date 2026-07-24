@@ -1480,6 +1480,17 @@ var movies = [
     "Overall": 6.17
   },
   {
+    "Poster": "https://image.tmdb.org/t/p/original/hWwloeNK2Qjay9JwhgS1Utaqi3X.jpg",
+    "Movie": "Idle Hands",
+    "Score": 63.67,
+    "Year": 2026,
+    "Scare Factor": 5.83,
+    "Lasting Effect": 6.17,
+    "Acting": 6.67,
+    "Plot": 6.33,
+    "Overall": 6.83
+  },
+  {
     "Poster": "https://m.media-amazon.com/images/M/MV5BYmYxZjI2OTQtM2Y2NS00MWQ5LTkzYmUtMTg4NjdiNWNlODhhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "Movie": "Coming Home in the Dark",
     "Score": 63.67,
