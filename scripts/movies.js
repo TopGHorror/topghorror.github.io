@@ -1843,6 +1843,17 @@ var movies = [
     "Overall": 5.67
   },
   {
+    "Poster": "https://image.tmdb.org/t/p/original/daInKxjoRNLFWIus64fHAy91V0k.jpg",
+    "Movie": "Good Boy",
+    "Score": 62,
+    "Year": 2026,
+    "Scare Factor": 5.33,
+    "Lasting Effect": 6,
+    "Acting": 6.67,
+    "Plot": 6.67,
+    "Overall": 6.33
+  },
+  {
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTI0MjgzNzMyOF5BMl5BanBnXkFtZTcwMDM0MzU1MQ@@._V1_FMjpg_UX1000_.jpg",
     "Movie": "The Poughkeepsie Tapes",
     "Score": 62,
@@ -2239,6 +2250,17 @@ var movies = [
     "Overall": 6
   },
   {
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjRiMTdlY2QtZGE3YS00YjQzLTk5MmUtNjVjMjUzYWRiMWNhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX746_.jpg",
+    "Movie": "The Toxic Avenger",
+    "Score": 57.67,
+    "Year": 2026,
+    "Scare Factor": 4.67,
+    "Lasting Effect": 6.33,
+    "Acting": 4.67,
+    "Plot": 6,
+    "Overall": 7.17
+  },
+  {
     "Poster": "https://m.media-amazon.com/images/M/MV5BZDA4ZjVmM2MtYWJlNC00OTE5LThlOWQtYjQ4Yjg1ODg5MTE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "Movie": "Heart Eyes",
     "Score": 57.67,
@@ -2529,6 +2551,17 @@ var movies = [
     "Acting": 5.33,
     "Plot": 5.17,
     "Overall": 5
+  },
+  {
+    "Poster": "https://image.tmdb.org/t/p/original/hgAHquo8Bt0ub0ru3QLiyrhGltW.jpg",
+    "Movie": "Frogman",
+    "Score": 50.33,
+    "Year": 2026,
+    "Scare Factor": 5,
+    "Lasting Effect": 5.67,
+    "Acting": 3.33,
+    "Plot": 5.67,
+    "Overall": 5.5
   },
   {
     "Poster": "https://m.media-amazon.com/images/M/MV5BNDA2NTg2NjE4Ml5BMl5BanBnXkFtZTYwMjYxMDg5._V1_FMjpg_UX1000_.jpg",
