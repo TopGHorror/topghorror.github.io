@@ -1348,6 +1348,17 @@ var movies = [
     "Overall": 6.5
   },
   {
+    "Poster": "https://image.tmdb.org/t/p/original/oLQlUUSlI669r1bgQ7AlnjcrrvC.jpg",
+    "Movie": "Possessor",
+    "Score": 64.67,
+    "Year": 2026,
+    "Scare Factor": 6.17,
+    "Lasting Effect": 6.17,
+    "Acting": 6.67,
+    "Plot": 6.67,
+    "Overall": 6.67
+  },
+  {
     "Poster": "https://m.media-amazon.com/images/M/MV5BYzE3ZDg0OTktYjlhNC00ZmQ0LTk0YjktMDE1ZWE2YjIwMjk4XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg",
     "Movie": "Saint Maud",
     "Score": 64.67,
@@ -2430,6 +2441,17 @@ var movies = [
     "Acting": 6,
     "Plot": 3.75,
     "Overall": 6
+  },
+  {
+    "Poster": "https://image.tmdb.org/t/p/original/2hz9nZue8i5WGIZCsAGn8KQoEaP.jpg",
+    "Movie": "Dream Eater",
+    "Score": 55,
+    "Year": 2026,
+    "Scare Factor": 5.83,
+    "Lasting Effect": 5.33,
+    "Acting": 5.33,
+    "Plot": 5.5,
+    "Overall": 5.5
   },
   {
     "Poster": "https://image.tmdb.org/t/p/original/mvf5RlVyZllV9krSdjsZ5lNiYE0.jpg",
