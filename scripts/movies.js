@@ -44,6 +44,17 @@ var movies = [
     "Overall": 7.83
   },
   {
+    "Poster": "https://image.tmdb.org/t/p/original/cuM1rGXxTd28KEQXBG683ODtWPY.jpg",
+    "Movie": "Sinners",
+    "Score": 77,
+    "Year": 2026,
+    "Scare Factor": 7.17,
+    "Lasting Effect": 7.33,
+    "Acting": 8.17,
+    "Plot": 7.83,
+    "Overall": 8
+  },
+  {
     "Poster": "https://image.tmdb.org/t/p/original/tObSf1VzzHt9xB0csanFtb3DRjf.jpg",
     "Movie": "Bring Her Back",
     "Score": 76,
