@@ -428,6 +428,17 @@ var movies = [
     "Plot": 7,
     "Overall": 7.17
   },
+   {
+    "Poster": "https://image.tmdb.org/t/p/original/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+    "Movie": "American Psycho",
+    "Score": 70,
+    "Year": 2026,
+    "Scare Factor": 5.33,
+    "Lasting Effect": 7,
+    "Acting": 7.67,
+    "Plot": 7.33,
+    "Overall": 7.67
+  },
   {
     "Poster": "https://m.media-amazon.com/images/M/MV5BN2U1MzRiN2UtZjkyMS00MGEwLWIyYTktNjMyMmUzZmMyMGRjXkEyXkFqcGc@._V1_.jpg",
     "Movie": "The Night House",
@@ -834,6 +845,17 @@ var movies = [
     "Acting": 8.38,
     "Plot": 8.25,
     "Overall": 7.38
+  },
+  {
+    "Poster": "https://image.tmdb.org/t/p/original/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
+    "Movie": "Shaun of the Dead",
+    "Score": 67.33,
+    "Year": 2026,
+    "Scare Factor": 5,
+    "Lasting Effect": 6.83,
+    "Acting": 7.17,
+    "Plot": 7.17,
+    "Overall": 7.5
   },
   {
     "Poster": "https://m.media-amazon.com/images/M/MV5BYTA2ODg5ZjgtOTU2My00MzFkLWI0NzMtZmQ5MmRhMWU1NzhlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",
