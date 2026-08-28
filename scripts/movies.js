@@ -176,6 +176,17 @@ var movies = [
     "Overall": 7.5
   },
   {
+    "Poster": "https://image.tmdb.org/t/p/original/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "Movie": "Obsession",
+    "Score": 74,
+    "Year": 2026,
+    "Scare Factor": 7.33,
+    "Lasting Effect": 7.17,
+    "Acting": 7.83,
+    "Plot": 7.17,
+    "Overall": 7.5
+  },
+  {
     "Poster": "https://m.media-amazon.com/images/M/MV5BODJlYzRjODUtNzBhOS00MTA5LTgzOWItMTg3YzcyOTNmNzQxXkEyXkFqcGc@._V1_.jpg",
     "Movie": "Aliens",
     "Score": 73.67,
