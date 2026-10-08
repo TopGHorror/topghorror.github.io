@@ -1744,6 +1744,17 @@ var movies = [
     "Overall": 6.83
   },
   {
+    "Poster": "https://image.tmdb.org/t/p/original/bSe8CBqK8HkbP6sqZWzcJfQV9Ci.jpg",
+    "Movie": "All Hallows' Eve",
+    "Score": 63,
+    "Year": 2026,
+    "Scare Factor": 7.17,
+    "Lasting Effect": 6.17,
+    "Acting": 5.67,
+    "Plot": 6,
+    "Overall": 6.5
+  },
+  {
     "Poster": "https://m.media-amazon.com/images/M/MV5BZTIyZGM3NDItMTNmNS00Yzc4LTg2MzItOWY4MTE1NDlmZDIyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_FMjpg_UX1000_.jpg",
     "Movie": "Cube",
     "Score": 63,
