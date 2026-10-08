@@ -1216,6 +1216,17 @@ var movies = [
     "Overall": 6.17
   },
   {
+    "Poster": "https://image.tmdb.org/t/p/original/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "Movie": "Backrooms",
+    "Score": 65.33,
+    "Year": 2026,
+    "Scare Factor": 6.5,
+    "Lasting Effect": 6.17,
+    "Acting": 6.67,
+    "Plot": 6.33,
+    "Overall": 7
+  },
+  {
     "Poster": "https://m.media-amazon.com/images/M/MV5BZGExZTc5YzAtMmEyMS00NGVmLTllYzktMzU1NjA1YjU1YzViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "Movie": "The Hills Have Eyes",
     "Score": 65.33,
