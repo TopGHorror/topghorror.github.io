@@ -792,6 +792,17 @@ var movies = [
     "Overall": 7.83
   },
   {
+    "Poster": "https://image.tmdb.org/t/p/original/x6rHcQFiYcczLQPrmxXPAicm54E.jpg",
+    "Movie": "Hokum",
+    "Score": 68,
+    "Year": 2026,
+    "Scare Factor": 6.83,
+    "Lasting Effect": 6.83,
+    "Acting": 6.5,
+    "Plot": 7,
+    "Overall": 6.83
+  },
+  {
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTQwODAxMTE1NF5BMl5BanBnXkFtZTcwNTQ0MjY3OQ@@._V1_.jpg",
     "Movie": "You're Next",
     "Score": 67.7,
