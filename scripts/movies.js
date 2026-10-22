@@ -1062,6 +1062,17 @@ var movies = [
     "Overall": 7.17
   },
   {
+    "Poster": "https://image.tmdb.org/t/p/original/80slKYVM5teFH3kz6ouWrZXveqj.jpg",
+    "Movie": "Together",
+    "Score": 66.33,
+    "Year": 2026,
+    "Scare Factor": 5.83,
+    "Lasting Effect": 6.83,
+    "Acting": 6.83,
+    "Plot": 6.83,
+    "Overall": 6.83
+  },
+  {
     "Poster": "https://m.media-amazon.com/images/M/MV5BYmU4MmNmZWYtMmIxMC00MGE3LTljODctNWQ1ZTQ4NDBlNzQ1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
     "Movie": "The Fog",
     "Score": 66.33,
@@ -1401,6 +1412,17 @@ var movies = [
     "Acting": 6.83,
     "Plot": 6.67,
     "Overall": 7
+  },
+  {
+    "Poster": "https://image.tmdb.org/t/p/original/5G3q3OvulFTnFdiouaZdD8wjtIc.jpg",
+    "Movie": "Seconds",
+    "Score": 64.67,
+    "Year": 2026,
+    "Scare Factor": 5,
+    "Lasting Effect": 6.33,
+    "Acting": 7.17,
+    "Plot": 7,
+    "Overall": 6.83
   },
   {
     "Poster": "https://m.media-amazon.com/images/M/MV5BZTg5MTMyNjktNTZhOC00MGFlLWFlMTMtZGU2MjE3OWQ3NjJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
