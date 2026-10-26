@@ -2195,6 +2195,17 @@ var movies = [
     "Overall": 6.17
   },
   {
+    "Poster": "https://image.tmdb.org/t/p/original/l9w2y7KyEu2ed5nohsZnrKxapE3.jpg",
+    "Movie": "Children of the Corn",
+    "Score": 60,
+    "Year": 2026,
+    "Scare Factor": 5.33,
+    "Lasting Effect": 5.83,
+    "Acting": 6.33,
+    "Plot": 6.17,
+    "Overall": 6.33
+  },
+  {
     "Poster": "https://m.media-amazon.com/images/M/MV5BOGI0MGYwMGItZmYwNS00OTQ2LTk5YzItMWJiMmUwNTJiMWI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "Movie": "Slaxx",
     "Score": 60,
