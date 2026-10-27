@@ -1095,6 +1095,17 @@ var movies = [
     "Overall": 7
   },
   {
+    "Poster": "https://image.tmdb.org/t/p/original/mBlpouG3gqB8WLdP65LCOXb3jFb.jpg",
+    "Movie": "Titane",
+    "Score": 66,
+    "Year": 2026,
+    "Scare Factor": 5.67,
+    "Lasting Effect": 7.17,
+    "Acting": 7.33,
+    "Plot": 6.33,
+    "Overall": 6.5
+  },
+  {
     "Poster": "https://image.tmdb.org/t/p/original/rws34k2bqYVo2B5MkhKAbV8925j.jpg",
     "Movie": "One Cut of the Dead",
     "Score": 66,
